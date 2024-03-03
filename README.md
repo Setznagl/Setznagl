@@ -29,7 +29,7 @@
         <a href="https://www.linkedin.com/in/gabriel-setznagl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  
         <a href="https://discord.gg/K5SFPb3j47" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
       </div></td>
-      <td><img src="https://discord.com/channels/1213956726714535966/1213958482101805126/1213958629921788084"></td>
+      <td><img src="/profile-gif/gif.gif"></td>
     </tr>
   </table>
 </header>
