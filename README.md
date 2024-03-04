@@ -9,17 +9,17 @@
       <td><div style="display: flex; justify-content: space-around; align-items: center; flex-flow: "row-wrap">
         <img alt="HTML" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="JS" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img alt="Java" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        <img alt="Github" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-        <img alt="GIT" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-        <img alt="VScode" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <img alt="Notion" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
-        <img alt="NodeJS" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img alt="Angular" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-        <img alt="Azure" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-        <img alt="MySQL" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
-        <!-- <img alt="" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/"> -->
+        <img alt="JS" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img alt="Java" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img alt="Github" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+        <img alt="GIT" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img alt="VScode" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        <img alt="Notion" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+        <img alt="NodeJS" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        <img alt="Angular" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+        <img alt="Azure" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+        <img alt="MySQL" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+        <!-- <img alt="" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/"> -->
       </div></td>
       <td ><img src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats" width= 100%></td>
     </tr>
