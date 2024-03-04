@@ -58,7 +58,7 @@ Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
 
 Na visão geral abaixo você encontrará minhas experiências de trabalho anteriores:
 
-🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧
+🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧
 
 <!--
 [<img align="left" height="15%" width="15%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [**Home Page**](https://atos.net/en/) Experience Time: 3 mth's <br>
