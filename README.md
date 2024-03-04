@@ -2,16 +2,16 @@
   <table>
     <!--- Primeira linha da tabela -->
     <tr>
-      <td><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&random=false&width=650&height=325&lines=Gabriel+Setznagl+;Front-End+Developer" alt="Typing SVG" /></a>
+      <td class="name-introduction" width= "75%"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&random=false&width=900&height=300&lines=Gabriel+Setznagl+;Front-End+Developer" alt="Typing SVG" /></a>
       </td>
-      <td><img src="/profile-gif/gif.gif" alt="Foto de perfil animada"></td>
+      <td width= "25%"><img src="/profile-gif/gif.gif" alt="Foto de perfil animada"></td>
     </tr>
      <!--- Segunda linha da tabela -->
     <tr>
       <td><div style="display: flex; justify-content: space-around; align-items: center; flex-flow: "row-wrap">
+        <img alt="JS" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img alt="HTML" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="JS" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img alt="Java" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img alt="Github" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
         <img alt="GIT" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
