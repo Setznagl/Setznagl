@@ -37,5 +37,29 @@
   </table>
 </header>
 
+# Experiências de trabalho na área de tecnologia
 
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="15%" width="15%" alt="Warpnet" src="">](https://atos.net/en/)
+
+**Service Desk Analyst N1** \
+[**Atos|Group**](https://atos.net/en/) • Full-time \ • \
+Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`\
+Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
+Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
+<br/>
+
+# Experiências de trabalho em demais áreas
+
+Na visão geral abaixo você encontrará minhas experiências de trabalho anteriores:
+
+[<img align="left" height="15%" width="15%" alt="Warpnet" src="">](https://atos.net/en/)
+
+**S** \
+[**A**](h) • Full-time \ • \
+Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`\
+Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
+Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
+<br/>
 
