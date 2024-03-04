@@ -1,10 +1,12 @@
 <header style="width = 100%;">
   <table>
+    <!--- Primeira linha da tabela -->
     <tr>
       <td><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&random=false&width=650&height=325&lines=Gabriel+Setznagl+;Front-End+Developer" alt="Typing SVG" /></a>
       </td>
       <td><img src="/profile-gif/gif.gif" alt="Foto de perfil animada"></td>
     </tr>
+     <!--- Segunda linha da tabela -->
     <tr>
       <td><div style="display: flex; justify-content: space-around; align-items: center; flex-flow: "row-wrap">
         <img alt="HTML" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,6 +25,7 @@
       </div></td>
       <td ><img src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats" width= 100%></td>
     </tr>
+     <!--- Terceira linha da tabela -->
     <tr>
       <td><div> 
         <a href = "mailto:comercialgabrielsetznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
