@@ -80,3 +80,6 @@ Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
   <img width="48%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
 </footer>
 
+<!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
+
+
