@@ -41,25 +41,42 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="15%" width="15%" alt="Warpnet" src="">](https://atos.net/en/)
+[<img align="left" height="15%" width="15%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [**Home Page**](https://atos.net/en/) Experience Time: 3 mth's <br>
 
-**Service Desk Analyst N1** \
-[**Atos|Group**](https://atos.net/en/) • Full-time \ • \
+**Service Desk Analyst N1** \ • Full-time (Forty hours per week) <br>
+`🔹                                                                                  🔹`<br>
 Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`\
+`🔹                                                                                  🔹`<br>
+Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`\
+`🔹                                                                                  🔹`<br>
 Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
+`🔹                                                                                  🔹`<br>
 Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
-<br/>
+`🔹                                                                                  🔹`<br>
 
 # Experiências de trabalho em demais áreas
 
 Na visão geral abaixo você encontrará minhas experiências de trabalho anteriores:
 
-[<img align="left" height="15%" width="15%" alt="Warpnet" src="">](https://atos.net/en/)
+🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧
 
-**S** \
-[**A**](h) • Full-time \ • \
+<!--
+[<img align="left" height="15%" width="15%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [**Home Page**](https://atos.net/en/) Experience Time: 3 mth's <br>
+
+**Service Desk Analyst N1** \ • Full-time (Forty hours per week) <br>
+`🔹                                                                                  🔹`<br>
 Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`\
+`🔹                                                                                  🔹`<br>
+Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`\
+`🔹                                                                                  🔹`<br>
 Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
+`🔹                                                                                  🔹`<br>
 Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
-<br/>
+`🔹                                                                                  🔹`<br>
+-->
+
+<footer width= "100%" style="display: flex; align-items: center;">
+  <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+  <img width="48%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
+</footer>
 
