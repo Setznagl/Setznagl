@@ -7,8 +7,8 @@
     </tr>
     <tr>
       <td><div style="display: flex; justify-content: space-around; align-items: center; flex-flow: "row-wrap">
-        <img alt="HTML" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="CSS" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img alt="HTML" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img alt="CSS" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img alt="JS" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img alt="Java" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img alt="Github" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
