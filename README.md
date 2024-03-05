@@ -50,22 +50,20 @@
   </table>
 </header>
 
-# Experiências de trabalho na área de tecnologia
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="15%" width="15%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [**Home Page**](https://atos.net/en/) Experience Time: 3 mth's <br>
-
-**Service Desk Analyst N1** \ • Full-time (Forty hours per week) <br>
-`🔹                                                                                  🔹`<br>
-Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`\
-`🔹                                                                                  🔹`<br>
-Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`\
-`🔹                                                                                  🔹`<br>
-Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
-`🔹                                                                                  🔹`<br>
-Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
-`🔹                                                                                  🔹`<br>
+| 🖥️ Experiências de trabalho na área de tecnologia | 💼 Experiências de trabalho em demais áreas | 
+|---|---|
+|Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:| Na visão geral abaixo você encontrará algumas de minhas experiências de trabalhos anteriores: |
+|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Experience Time: 3 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://institutocea.org.br/) Experience Time: 1 year and 6 mth's |
+|**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | x |
+|`🔹                                                                    🔹`| x |
+|Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| x |
+|`🔹                                                                    🔹`| x |
+|Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`| x |
+|`🔹                                                                    🔹`| x |
+|Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| x |
+|`🔹                                                                    🔹`| x |
+|Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| x |
+|`🔹                                                                    🔹`| x |
 
 # Experiências de trabalho em demais áreas
 
@@ -73,28 +71,13 @@ Na visão geral abaixo você encontrará minhas experiências de trabalho anteri
 
 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧
 
-<!--
-[<img align="left" height="15%" width="15%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [**Home Page**](https://atos.net/en/) Experience Time: 3 mth's <br>
-
-**Service Desk Analyst N1** \ • Full-time (Forty hours per week) <br>
-`🔹                                                                                  🔹`<br>
-Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`\
-`🔹                                                                                  🔹`<br>
-Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`\
-`🔹                                                                                  🔹`<br>
-Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
-`🔹                                                                                  🔹`<br>
-Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`\
-`🔹                                                                                  🔹`<br>
--->
-
 <footer width= "100%" style="display: flex; align-items: center;">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
   <img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats">
-</footer>
-
+      <br>
 <img width="94%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
+</footer>
 
 <!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
 
