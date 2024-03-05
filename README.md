@@ -53,7 +53,7 @@
 | 🖥️ Experiências de trabalho na área de tecnologia | 💼 Experiências de trabalho em demais áreas | 
 |---|---|
 |Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:| Na visão geral abaixo você encontrará minha experiência anterior mais relevante: |
-|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Experience Time: 3 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Experience Time: 1 year and 6 mth's |
+|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Exp. Time: 3 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Exp. Time: 1 year and 6 mth's |
 |**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧 |
 |Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
 |Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
