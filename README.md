@@ -52,24 +52,18 @@
 
 | 🖥️ Experiências de trabalho na área de tecnologia | 💼 Experiências de trabalho em demais áreas | 
 |---|---|
-|Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:| Na visão geral abaixo você encontrará algumas de minhas experiências de trabalhos anteriores: |
-|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Experience Time: 3 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/logoinstituto.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Experience Time: 1 year and 6 mth's |
-|**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | x |
-|`🔹                                                                    🔹`| x |
-|Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| x |
-|`🔹                                                                    🔹`| x |
-|Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`| x |
-|`🔹                                                                    🔹`| x |
-|Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| x |
-|`🔹                                                                    🔹`| x |
-|Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| x |
-|`🔹                                                                    🔹`| x |
-
-# Experiências de trabalho em demais áreas
-
-Na visão geral abaixo você encontrará minhas experiências de trabalho anteriores:
-
-🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧
+|Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:| Na visão geral abaixo você encontrará minha experiência anterior mais relevante: |
+|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Experience Time: 3 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Experience Time: 1 year and 6 mth's |
+|**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧 |
+|`🔹                                                                  🔹`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
+|Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
+|`🔹                                                                  🔹`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
+|Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
+|`🔹                                                                  🔹`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
+|Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
+|`🔹                                                                  🔹`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
+|Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
+|`🔹                                                                  🔹`| 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧 |
 
 <footer width= "100%" style="display: flex; align-items: center;">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
