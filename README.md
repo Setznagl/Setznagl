@@ -59,10 +59,56 @@
 |Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
 |Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧 |
 
+  <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning</th>
+      <tr colspan="3" align="center"> 
+          <td>
+            <a"><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg"></a>
+          </td>
+          <td>  
+            <a><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg"></a>
+          </td>
+            <td>
+            <a><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/describe-azure-management-governance.svg"></a>
+          </td>
+          <td>  
+            <a><img width="80%" src=""></a>
+          </td>
+           <td>
+            <a>🧱🧱🧱</a>
+          </td>
+          <td>  
+            <a>🧱🧱🧱</a>
+          </td>
+          <td>  
+            <a>🧱🧱🧱</a>
+          </td>
+          <td>  
+            <a>🧱🧱🧱</a>
+          </td>
+          <td>  
+            <a>🧱🧱🧱</a>
+          </td>
+         <td>  
+            <a>🧱🧱🧱</a>
+          </td>
+      </tr>
+  </table>
+
+  ##### 🚧🛑🧱🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧
+  
+  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+  ##### 🚧🛑🧱🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧
+  
+  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
 <footer width= "100%" align="center">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
   <img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats">
+  <img width="94%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
       <!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
     <picture width="100%" align="center">
       <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake-dark.svg">
@@ -70,49 +116,4 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg"> 
     </picture>
         <br>
-  <img width="94%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
 </footer>
-
-  <table id="tabela-alura"><th colspan="10">Alura</th>
-      <tr colspan="3"> 
-          <td>
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-programacao-v531534-531534/certificate"><img width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-publicacao-projetos.svg"></a>
-          </td>
-          <td>  
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
-          </td>
-            <td>
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-programacao-v531534-531534/certificate"><img width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-publicacao-projetos.svg"></a>
-          </td>
-          <td>  
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
-          </td>
-           <td>
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-programacao-v531534-531534/certificate"><img width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-publicacao-projetos.svg"></a>
-          </td>
-          <td>  
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
-          </td>
-          <td>  
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
-          </td>
-          <td>  
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
-          </td>
-          <td>  
-            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
-          </td>
-      </tr>
-  </table>
-
-  ##### Microsoft Learning 🚧🛑🧱🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧
-  
-  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-  ##### Digital Inovation One 🚧🛑🧱🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧
-  
-  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-
