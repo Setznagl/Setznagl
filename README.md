@@ -7,8 +7,8 @@
       <td class="image-introduction" width= "25%"><img src="/profile-gif/gif.gif" alt="Foto de perfil animada"></td>
     </tr>
      <!--- Segunda linha da tabela -->
-    <tr width="100%" style="display: flex; justify-content: space-around; align-items: center; flex-flow: "row-wrap">
-      <td colspan="2" style="display: flex; justify-content: center; align-items: center;">
+    <tr width="100%" align="center">
+      <td colspan="2">
         <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           &nbsp;&nbsp;
         <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -37,8 +37,7 @@
     </tr>
      <!--- Terceira linha da tabela -->
     <tr>
-      <td colspan="2"><div> 
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <td colspan="2" align="center"><div> 
         <a href = "mailto:comercialgabrielsetznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/gabriel-setznagl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  
         <a href="https://discord.gg/K5SFPb3j47" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -60,22 +59,60 @@
 |Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
 |Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧 |
 
-<footer width= "100%" style="display: flex; align-items: center;">
+<footer width= "100%" align="center">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
   <img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats">
-      <br>
-<img width="94%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
-    <!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
-  <picture>
-    <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg"> 
-  </picture>
+      <!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
+    <picture width="100%" align="center">
+      <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg"> 
+    </picture>
+        <br>
+  <img width="94%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
 </footer>
 
+  <table id="tabela-alura"><th colspan="10">Alura</th>
+      <tr colspan="3"> 
+          <td>
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-programacao-v531534-531534/certificate"><img width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-publicacao-projetos.svg"></a>
+          </td>
+          <td>  
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
+          </td>
+            <td>
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-programacao-v531534-531534/certificate"><img width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-publicacao-projetos.svg"></a>
+          </td>
+          <td>  
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
+          </td>
+           <td>
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-programacao-v531534-531534/certificate"><img width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-publicacao-projetos.svg"></a>
+          </td>
+          <td>  
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
+          </td>
+          <td>  
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
+          </td>
+          <td>  
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
+          </td>
+          <td>  
+            <a href="https://cursos.alura.com.br/user/gabriel-setznagl/degree-html-css-v527396-527396/certificate"><img  width="100%" src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-mobile-first.svg"></a>
+          </td>
+      </tr>
+  </table>
 
-  | x | y |
-  |---|---|
+  ##### Microsoft Learning 🚧🛑🧱🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧
+  
+  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+  ##### Digital Inovation One 🚧🛑🧱🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧
+  
+  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 
