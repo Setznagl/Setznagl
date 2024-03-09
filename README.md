@@ -62,34 +62,34 @@
   <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning</th>
       <tr colspan="3" align="center"> 
           <td>
-            <a href="Certificados - Resumido\Microsoft\Azure\AZ-900\Princípios-básicos-do-Microsoft-Azure-descrever-os-conceitos-de-nuvem.pdf" download><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg"></a>
+            <a href="Certificados - Resumido\Microsoft\Azure\AZ-900\Princípios-básicos-do-Microsoft-Azure-descrever-os-conceitos-de-nuvem.pdf"><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg"></a>
           </td>
           <td>  
-            <a><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg"></a>
+            <a href="Certificados - Resumido/Microsoft/Azure/AZ-900/Conceitos-básicos-do-Microsoft-Azure-descrever-a-arquitetura-e-os-serviços-do-Azure.pdf"><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg"></a>
           </td>
             <td>
-            <a><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/describe-azure-management-governance.svg"></a>
+            <a href="Certificados - Resumido/Microsoft/Azure/AZ-900/Conceitos básicos do Microsoft Azure Descrever o gerenciamento e a governança do Azure.pdf"><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/describe-azure-management-governance.svg"></a>
           </td>
           <td>  
-            <a><img width="80%" src=""></a>
+            <a href=""><img width="80%" src=""></a>
           </td>
            <td>
-            <a>🧱🧱🧱</a>
+            <a>🧱</a>
           </td>
           <td>  
-            <a>🧱🧱🧱🧱</a>
+            <a>🧱</a>
           </td>
           <td>  
-            <a>🧱🧱🧱</a>
+            <a>🧱</a>
           </td>
           <td>  
-            <a>🧱🧱🧱</a>
+            <a>🧱</a>
           </td>
           <td>  
-            <a>🧱🧱🧱</a>
+            <a>🧱</a>
           </td>
          <td>  
-            <a>🧱🧱🧱</a>
+            <a>🧱</a>
           </td>
       </tr>
   </table>
