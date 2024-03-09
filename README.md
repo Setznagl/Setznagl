@@ -59,7 +59,7 @@
 |Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
 |Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧 |
 
-  <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning</th>
+  <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning Paths</th>
       <tr colspan="3" align="center"> 
           <td>
             <a href="Certificados - Resumido\Microsoft\Azure\AZ-900\Princípios-básicos-do-Microsoft-Azure-descrever-os-conceitos-de-nuvem.pdf"><img width="80%" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg"></a>
