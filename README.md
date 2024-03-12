@@ -53,11 +53,11 @@
 |---|---|
 |Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:| Na visão geral abaixo você encontrará minha experiência anterior mais relevante: |
 |[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Exp. Time: 3 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Exp. Time: 1 year and 6 mth's |
-|**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧 |
-|Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
-|Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
-|Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧 |
-|Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| 🚧🏗️🧱🛑Este tópico se encontra em implementação e você poderá conferi-lo em breve🛑🚧🧱🚧 |
+|**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | **Local Tech Salesperson Leader** \ • Full-time (Forty four hours per week) |
+|Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| `Microsoft Teams`,`Consultive Sales`,`Targets Managment` |
+|Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`|  `Comunicação Ativa`,`Atendimento ao cliente/usuário`,`Mobile Hardware Consultancy` |
+|Oportunidades de Desenvolvimento: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| `Retail sales knowledge` |
+|Projetos em destaque: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| |
 
   <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning Paths</th>
       <tr colspan="3" align="center"> 
@@ -93,16 +93,76 @@
           </td>
       </tr>
   </table>
-
-  ##### 🚧🛑🧱🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧
-  
-  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-  ##### 🚧🛑🧱🚧🛑🏗️🧱🏗️👷⚒🏗️🧱🚧👷‍♀️🧱🏗️👷⚒️🛑🚧
-  
-  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+  <br><br>
+  <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps & Projects</th>
+      <tr colspan="3" align="center"> 
+           <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+           <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+           <td width = "10%">
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+             <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+      </tr>
+  </table>
+  <br><br>
+  <table id="tabela-alura"><th colspan="10">Alura Learning Paths</th>
+      <tr colspan="3" align="center"> 
+           <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+           <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+           <td width = "10%">
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+             <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados - Resumido/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+      </tr>
+  </table>
 
 <footer width= "100%" align="center">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
