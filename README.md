@@ -49,10 +49,10 @@
   </table>
 </header>
 
-| 🖥️ Experiências de trabalho na área de tecnologia | 💼 Experiências de trabalho em demais áreas | 
+| 🖥️ Work experiences in the technology field | 💼 Work experiences in other areas | 
 |---|---|
-|Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:| Na visão geral abaixo você encontrará minha experiência anterior mais relevante: |
-|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Exp. Time: 3 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Exp. Time: 1 year and 6 mth's |
+|In the overview below you will find my most recent work experience:| In the overview below you will find my most relevant previous experience: |
+|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Exp. Time: 4 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Exp. Time: 1 year and 6 mth's |
 |**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | **Local Tech Salesperson Leader** \ • Full-time (Forty four hours per week) |
 |Principais Ferramentas Utilizadas: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| `Microsoft Teams`,`Consultive Sales`,`Targets Managment` |
 |Soft Skills mais utilizadas: `Comunicação Ativa`,`Troubleshooting`,`Atendimento ao cliente/usuário`|  `Comunicação Ativa`,`Atendimento ao cliente/usuário`,`Mobile Hardware Consultancy` |
