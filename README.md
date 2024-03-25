@@ -23,7 +23,7 @@
           &nbsp;&nbsp;
         <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
           &nbsp;&nbsp;
-        <img alt="Github" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+        <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
           &nbsp;&nbsp;
         <img alt="GIT" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
           &nbsp;&nbsp;
