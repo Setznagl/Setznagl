@@ -52,7 +52,7 @@
 | 🖥️ Work experiences in the technology field | 💼 Work experiences in other areas | 
 |---|---|
 |In the overview below you will find my most recent work experience:| In the overview below you will find my most relevant previous experience: |
-|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Exp. Time: 4 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Exp. Time: 1 year and 6 mth's |
+|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Exp. Time: 5 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Exp. Time: 1 year and 6 mth's |
 |**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | **Local Tech Salesperson Leader** \ • Full-time (Forty four hours per week) |
 |Main Tools Used: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| `Microsoft Teams`,`Consultive Sales`,`Targets Managment` |
 |Most used Soft Skills: `Active Communication`,`Troubleshooting`,`Customer/user service`|  `Active Communication`,`Customer/user service`,`Mobile Hardware Consultancy` |
