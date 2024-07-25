@@ -9,11 +9,11 @@
      <!--- Segunda linha da tabela -->
     <tr width="100%" align="center">
       <td colspan="2">
-        <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          &nbsp;&nbsp;
         <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           &nbsp;&nbsp;
         <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          &nbsp;&nbsp;
+        <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           &nbsp;&nbsp;
         <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
           &nbsp;&nbsp;
@@ -22,6 +22,8 @@
         <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
           &nbsp;&nbsp;
         <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+          &nbsp;&nbsp;
+        <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
           &nbsp;&nbsp;
         <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
           &nbsp;&nbsp;
