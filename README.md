@@ -15,18 +15,29 @@
           &nbsp;&nbsp;
         <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           &nbsp;&nbsp;
-        <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-          &nbsp;&nbsp;
         <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+          &nbsp;&nbsp; 
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
           &nbsp;&nbsp;
         <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
           &nbsp;&nbsp;
         <img alt="" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg"> 
            &nbsp;&nbsp;
+        <img alt="" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg">
+           &nbsp;&nbsp;
+                       &nbsp;&nbsp;&nbsp;&nbsp;
+                       &nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
           &nbsp;&nbsp;
         <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
           &nbsp;&nbsp;
+                      &nbsp;&nbsp;&nbsp;&nbsp;
+                      &nbsp;&nbsp;&nbsp;&nbsp;
+                      &nbsp;&nbsp;&nbsp;&nbsp;
+                      &nbsp;&nbsp;&nbsp;&nbsp;
+                      &nbsp;&nbsp;&nbsp;&nbsp;
+                      &nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
           &nbsp;&nbsp;
         <img alt="GIT" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -35,10 +46,12 @@
           &nbsp;&nbsp;
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
           &nbsp;&nbsp;
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
           &nbsp;&nbsp;
         <img alt="VScode" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
           &nbsp;&nbsp;
+        <!-- <img alt="" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/"> -->
         <!-- <img alt="" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/"> -->
       </td>
     </tr>
