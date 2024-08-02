@@ -113,11 +113,11 @@
           </td>
       </tr>
   </table>
-  <br><br>
-  <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps & Projects</th>
+  <br>
+  <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps</th>
       <tr colspan="3" align="center"> 
            <td width = "10%">  
-            <a href="Certificados - Resumido/Digital Inovation One/Bootcamp Azure AI900/Microsoft Azure AI Fundamentals.pdf"><img src="https://hermes.dio.me/courses/badge/c8e0f61f-cdf4-4852-92df-a01045dce3a2.png"></a>
+            <a href="Certificados/Digital Inovation One/Bootcamp Azure AI900/Microsoft Azure AI Fundamentals.pdf"><img src="https://hermes.dio.me/courses/badge/c8e0f61f-cdf4-4852-92df-a01045dce3a2.png"></a>
           </td>
            <td width = "10%">  
             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
@@ -148,7 +148,7 @@
           </td>
       </tr>
   </table>
-  <br><br>
+  <br>
   <table id="tabela-alura"><th colspan="10">Alura Learning Paths</th>
       <tr colspan="3" align="center"> 
            <td width = "10%">  
@@ -183,6 +183,42 @@
           </td>
       </tr>
   </table>
+  <br>
+  <table id="tabela-alura"><th colspan="10">Udemy Courses</th>
+      <tr colspan="3" align="center"> 
+           <td width = "10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+           <td width = "10%">
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width = "10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+      </tr>
+  </table>
+  <br>
 
 <footer width= "100%" align="center">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
