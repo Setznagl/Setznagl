@@ -46,7 +46,7 @@
           &nbsp;&nbsp;
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
           &nbsp;&nbsp;
-        <img alt="Click-Up" width="6%" text-align="center" src="Assets/Icons/clickup-seeklogo.svg">
+        <img alt="Click-Up" width="6%" src="Assets/Icons/clickup-seeklogo.svg">
           &nbsp;&nbsp;
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
