@@ -78,7 +78,7 @@
 |Most used Soft Skills: `Active Communication`,`Troubleshooting`,`Customer/user service`|  `Active Communication`,`Customer/user service`,`Mobile Hardware Consultancy` |
 |Development Opportunities: `Speex`, `Atos MyLearning Courses Portal`, `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| `Retail sales knowledge` |
 |Featured projects: `🏗️🧱🚧`~~`Atos Java Bootcamp`~~`🚧🛑🧱`| |
-
+  <!--
   <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning Paths</th>
       <tr colspan="3" align="center"> 
           <td width = "10%">
@@ -114,6 +114,7 @@
       </tr>
   </table>
   <br>
+  -->  
   <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps</th>
       <tr colspan="3" align="center"> 
            <td width = "10%">  
