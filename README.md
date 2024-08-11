@@ -17,42 +17,42 @@
           &nbsp;&nbsp;
         <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
           &nbsp;&nbsp; 
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+          &nbsp;&nbsp;
+        <img alt="Spring-Boot" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
           &nbsp;&nbsp;
         <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
           &nbsp;&nbsp;
+        <img alt="NPM" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+          &nbsp;&nbsp;
         <img alt="Maven" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg"> 
            &nbsp;&nbsp;
-        <img alt="Hibernate" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg">
+        <img alt="Hibernate" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg">
            &nbsp;&nbsp;
-                       &nbsp;&nbsp;&nbsp;&nbsp;
-                       &nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt="TomCat" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg">
+           &nbsp;&nbsp;
         <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
           &nbsp;&nbsp;
-        <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+        <img alt="PostgreSQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
           &nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
           &nbsp;&nbsp;
         <img alt="GIT" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+          &nbsp;&nbsp;
+        <img alt="Postman" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+          &nbsp;&nbsp;
+        <img alt="Figma" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
           &nbsp;&nbsp;
         <img alt="Azure" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
           &nbsp;&nbsp;
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
           &nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
         <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
           &nbsp;&nbsp;
         <img alt="VScode" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
           &nbsp;&nbsp;
-        <!-- <img alt="" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/"> -->
-        <!-- <img alt="" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/"> -->
+        <!-- <img alt="" width="6%" src=""> -->
+        <!-- <img alt="" width="6%" src=""> -->
       </td>
     </tr>
      <!--- Terceira linha da tabela -->
