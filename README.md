@@ -17,8 +17,10 @@
           &nbsp;&nbsp;
         <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
           &nbsp;&nbsp; 
+        <!--
         <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
           &nbsp;&nbsp;
+        -->
         <img alt="Spring-Boot" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
           &nbsp;&nbsp;
         <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
