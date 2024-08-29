@@ -78,7 +78,7 @@
 |**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | **Local Tech Salesperson Leader** \ • Full-time (Forty four hours per week) |
 |Main Tools Used: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| `Microsoft Teams`,`Consultive Sales`,`Targets Managment` |
 |Most used Soft Skills: `Active Communication`,`Troubleshooting`,`Customer/user service`|  `Active Communication`,`Customer/user service`,`Mobile Hardware Consultancy` |
-|Development Opportunities: `Speex`, `Atos MyLearning Courses Portal`, `7° Atos Java Bootcamp`| `Retail sales knowledge` |
+|Development Opportunities: `Speex`, `Atos MyLearning Courses Portal`, `7° UFN-Atos Java Academy`| `Retail sales knowledge` |
 
   <!--
   <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning Paths</th>
