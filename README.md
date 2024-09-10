@@ -45,6 +45,8 @@
           &nbsp;&nbsp;
         <img alt="Figma" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
           &nbsp;&nbsp;
+        <img alt="Junit" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg">
+          &nbsp;&nbsp;
         <img alt="Azure" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
           &nbsp;&nbsp;
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
@@ -55,7 +57,7 @@
           &nbsp;&nbsp;
         <!-- <img alt="" width="6%" src=""> -->
         <!-- <img alt="" width="6%" src=""> -->
-      </td>
+      </td>   
     </tr>
      <!--- Terceira linha da tabela -->
     <tr>
