@@ -1,14 +1,22 @@
-<header style="width = 100%;">
+<html>
+
+<header width="100vw">
   <table>
-    <!--- Primeira linha da tabela -->
     <tr>
-      <td class="name-introduction" width= "75%"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&random=false&width=900&height=300&lines=Gabriel+Setznagl+;Front-End+Developer" alt="Typing SVG" /></a>
+      <td width= "75%">
+          <img src="https://readme-typing-svg.demolab.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&random=false&width=900&height=300&lines=Gabriel+Setznagl+;Front-End+Developer" alt="Typing SVG" />
       </td>
-      <td class="image-introduction" width= "25%"><img src="/profile-gif/gif.gif" alt="Foto de perfil animada"></td>
+      <td width= "25%">
+          <img src="/profile-gif/gif.gif" alt="Foto de perfil animada">
+      </td>
     </tr>
-     <!--- Segunda linha da tabela -->
+  </table>
+</header>
+
+<body width="100vw">
+  <table>
     <tr width="100%" align="center">
-      <td colspan="6">
+      <td colspan="2">
         <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,8 +46,7 @@
         <!-- <img alt="" width="6%" src=""> -->
       </td>   
     </tr>
-     <!--- Terceira linha da tabela -->
-    <tr>
+    <tr width="100%" align="center">
       <td colspan="2" align="center"><div> 
         <a href = "mailto:comercialgabrielsetznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/gabriel-setznagl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  
@@ -49,16 +56,47 @@
       </div></td>
     </tr>
   </table>
-</header>
 
-| 🖥️ Work experiences in the technology field | 💼 Work experiences in other areas | 
-|---|---|
-|In the overview below you will find my most recent work experience:| In the overview below you will find my most relevant previous experience: |
-|[<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/atos-group-logo-white.svg">](https://atos.net/en/) [](https://atos.net/en/) Exp. Time: 10 mth's | [<img align="left" height="30%" width="30%" alt="Warpnet" src="/job-experiences/lgcea.png">](https://institutocea.org.br/) [](https://institutocea.org.br/) Exp. Time: 1 year and 6 mth's |
-|**Service Desk Analyst N1** \ • Full-time (Forty hours per week) | **Local Tech Salesperson Leader** \ • Full-time (Forty four hours per week) |
-|Main Tools Used: `Powershell`, `Notion`, `Microsoft Teams`, `Azure Account Services`, `Remote Access`| `Microsoft Teams`,`Consultive Sales`,`Targets Managment` |
-|Most used Soft Skills: `Active Communication`,`Troubleshooting`,`Customer/user service`|  `Active Communication`,`Customer/user service`,`Mobile Hardware Consultancy` |
-|Development Opportunities: `Speex`, `Atos MyLearning Courses Portal`, `7° UFN-Atos Java Academy`| `Retail sales knowledge` |
+<table>
+    <tr>
+        <th class="column-title">🖥️ Work experiences in the technology field</th>
+        <th class="column-title">💼 Work experiences in other areas</th>
+    </tr>
+    <tr>
+        <td>In the overview below you will find my most recent work experience:</td>
+        <td>In the overview below you will find my most relevant previous experiences:</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://atos.net/en/">
+                <img align="left" height="30%" width="30%" alt="Atos" src="/job-experiences/atos-group-logo-white.svg">
+            </a>
+            Exp. Time: 10 mth's
+        </td>
+        <td>
+            <a href="https://institutocea.org.br/">
+                <img align="left" height="30%" width="30%" alt="Instituto C&A" src="/job-experiences/lgcea.png">
+            </a>
+            Exp. Time: 1 year and 6 mth's
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Service Desk Analyst N1</strong> • Full-time (Forty hours per week)</td>
+        <td><strong>Local Tech Salesperson Leader</strong> • Full-time (Forty-four hours per week)</td>
+    </tr>
+    <tr>
+        <td>Main Tools Used: <code>Powershell</code>, <code>Notion</code>, <code>Microsoft Teams</code>, <code>Azure Account Services</code>, <code>Remote Access</code></td>
+        <td>Main Tools Used: <code>Microsoft Teams</code>, <code>Consultive Sales</code>, <code>Targets Management</code></td>
+    </tr>
+    <tr>
+        <td>Most used Soft Skills: <code>Active Communication</code>, <code>Troubleshooting</code>, <code>Customer/user service</code></td>
+        <td>Most used Soft Skills: <code>Active Communication</code>, <code>Customer/user service</code>, <code>Mobile Hardware Consultancy</code></td>
+    </tr>
+    <tr>
+        <td>Development Opportunities: <code>Speex</code>, <code>Atos MyLearning Courses Portal</code>, <code>7° UFN-Atos Java Academy</code></td>
+        <td>Development Opportunities: <code>Retail sales knowledge</code></td>
+    </tr>
+</table>
 
   <!--
   <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning Paths</th>
@@ -96,7 +134,7 @@
       </tr>
   </table>
   <br>
-  -->  
+  -->
   <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps</th>
       <tr colspan="3" align="center"> 
            <td width = "10%">  
@@ -236,6 +274,7 @@
           </td>
       </tr>
   </table>
+</body>  
   <br>
 
 <footer width= "100%" align="center">
@@ -250,3 +289,5 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg"> 
     </picture>
 </footer>
+
+</html>
