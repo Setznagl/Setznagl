@@ -15,31 +15,31 @@
   <table>
     <tr width="100%" align="center" display="flex">
       <td colspan="2">
-        <img alt="HTML" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="CSS" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="JS" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img alt="Java" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img alt="HTML" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img alt="CSS" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img alt="JS" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img alt="Java" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <!--
         <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
           &nbsp;&nbsp;
         -->
-        <img alt="Spring-Boot" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-        <img alt="NodeJS" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img alt="NPM" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-        <img alt="Maven" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
-        <img alt="Hibernate" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
-        <img alt="TomCat" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
-        <img alt="MySQL" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-        <img alt="PostgreSQL" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-        <img alt="Github" width="20%" src="https://www.svgrepo.com/show/475654/github-color.svg">
-        <img alt="GIT" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-        <img alt="Postman" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-        <img alt="Figma" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-        <img alt="Junit" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
-        <img alt="Azure" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
-        <img alt="Notion" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
-        <img alt="VScode" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <img alt="VScode" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+        <img alt="Spring-Boot" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img alt="NodeJS" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        <img alt="NPM" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+        <img alt="Maven" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
+        <img alt="Hibernate" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
+        <img alt="TomCat" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
+        <img alt="MySQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+        <img alt="PostgreSQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+        <img alt="Github" width="10%" src="https://www.svgrepo.com/show/475654/github-color.svg">
+        <img alt="GIT" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img alt="Postman" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+        <img alt="Figma" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+        <img alt="Junit" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
+        <img alt="Azure" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
+        <img alt="Notion" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+        <img alt="VScode" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        <img alt="VScode" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
         <!-- <img alt="" width="20%" src=""> -->
         <!-- <img alt="" width="20%" src=""> -->
       </td>   
