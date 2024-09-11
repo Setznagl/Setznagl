@@ -1,6 +1,4 @@
-<html>
-
-<header width="100vw">
+<header>
   <table>
     <tr>
       <td width= "75%">
@@ -13,9 +11,9 @@
   </table>
 </header>
 
-<body width="100vw">
+<body>
   <table>
-    <tr width="100%" align="center">
+    <tr width="100%" align="center" display="flex">
       <td colspan="2">
         <img alt="HTML" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -289,5 +287,3 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg"> 
     </picture>
 </footer>
-
-</html>
