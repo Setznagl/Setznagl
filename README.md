@@ -241,7 +241,7 @@
     <table id="tabela-alura"><th colspan="10">Other Sources</th>
       <tr colspan="3" align="center"> 
           <td width = "10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_Atos_UFN.pdf"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
           </td>
           <td width = "10%">  
             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
