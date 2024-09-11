@@ -8,53 +8,32 @@
     </tr>
      <!--- Segunda linha da tabela -->
     <tr width="100%" align="center">
-      <td colspan="2">
+      <td colspan="6">
         <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          &nbsp;&nbsp;
         <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          &nbsp;&nbsp;
         <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          &nbsp;&nbsp;
         <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-          &nbsp;&nbsp; 
         <!--
         <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
           &nbsp;&nbsp;
         -->
-        <img alt="Spring-Boot" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-          &nbsp;&nbsp;
+        <img alt="Spring-Boot" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
         <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-          &nbsp;&nbsp;
-        <img alt="NPM" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-          &nbsp;&nbsp;
-        <img alt="Maven" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg"> 
-           &nbsp;&nbsp;
-        <img alt="Hibernate" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg">
-           &nbsp;&nbsp;
-        <img alt="TomCat" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg">
-           &nbsp;&nbsp;
+        <img alt="NPM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+        <img alt="Maven" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
+        <img alt="Hibernate" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
+        <img alt="TomCat" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
         <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-          &nbsp;&nbsp;
         <img alt="PostgreSQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-          &nbsp;&nbsp;
         <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
-          &nbsp;&nbsp;
         <img alt="GIT" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-          &nbsp;&nbsp;
-        <img alt="Postman" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
-          &nbsp;&nbsp;
-        <img alt="Figma" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-          &nbsp;&nbsp;
-        <img alt="Junit" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg">
-          &nbsp;&nbsp;
+        <img alt="Postman" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+        <img alt="Figma" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+        <img alt="Junit" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
         <img alt="Azure" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
-          &nbsp;&nbsp;
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
-          &nbsp;&nbsp;
         <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-          &nbsp;&nbsp;
-        <img alt="VScode" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-          &nbsp;&nbsp;
+        <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
         <!-- <img alt="" width="6%" src=""> -->
         <!-- <img alt="" width="6%" src=""> -->
       </td>   
@@ -68,7 +47,6 @@
         <a href="mailto:gabriel.mendonca@atos.net"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
         <a href="https://learn.microsoft.com/pt-br/users/gabrielmendonca-3960/achievements?tab=tab-learning-paths"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
       </div></td>
-      <!-- <td><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"></td> -->
     </tr>
   </table>
 </header>
@@ -260,19 +238,15 @@
   </table>
   <br>
 
-
 <footer width= "100%" align="center">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-  <img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
+  <img width="35%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats">
-  <img width="94%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
       <!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
     <picture width="100%" align="center">
       <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg"> 
     </picture>
-        <br><br>
 </footer>
-
-<!-- <details><summary>Teste</summary></details> ---> 
