@@ -15,33 +15,33 @@
   <table>
     <tr width="100%" align="center" display="flex">
       <td colspan="2">
-        <img alt="HTML" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="CSS" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="JS" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img alt="Java" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <!--
         <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
           &nbsp;&nbsp;
         -->
-        <img alt="Spring-Boot" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-        <img alt="NodeJS" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img alt="NPM" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-        <img alt="Maven" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
-        <img alt="Hibernate" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
-        <img alt="TomCat" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
-        <img alt="MySQL" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-        <img alt="PostgreSQL" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-        <img alt="Github" width="20%" src="https://www.svgrepo.com/show/475654/github-color.svg">
-        <img alt="GIT" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-        <img alt="Postman" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-        <img alt="Figma" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-        <img alt="Junit" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
-        <img alt="Azure" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
-        <img alt="Notion" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
-        <img alt="VScode" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <img alt="VScode" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-        <!-- <img alt="" width="20%" src=""> -->
-        <!-- <img alt="" width="20%" src=""> -->
+        <img alt="Spring-Boot" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        <img alt="NPM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+        <img alt="Maven" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
+        <img alt="Hibernate" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
+        <img alt="TomCat" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
+        <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+        <img alt="PostgreSQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+        <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
+        <img alt="GIT" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img alt="Postman" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+        <img alt="Figma" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+        <img alt="Junit" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
+        <img alt="Azure" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
+        <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+        <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+        <!-- <img alt="" width="6%" src=""> -->
+        <!-- <img alt="" width="6%" src=""> -->
       </td>   
     </tr>
     <tr width="100%" align="center">
@@ -67,7 +67,7 @@
     <tr>
         <td>
             <a href="https://atos.net/en/">
-                <img align="left" height="100%" width="100%" alt="Atos" src="/job-experiences/atos-group-logo-white.svg">
+                <img align="left" height="30%" width="30%" alt="Atos" src="/job-experiences/atos-group-logo-white.svg">
             </a>
             Exp. Time: 10 mth's
         </td>
@@ -241,7 +241,7 @@
     <table id="tabela-alura"><th colspan="10">Other Sources</th>
       <tr colspan="3" align="center"> 
           <td width = "10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_Atos_UFN.pdf"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
           </td>
           <td width = "10%">  
             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
@@ -277,7 +277,7 @@
 
 <footer width= "100%" align="center">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-  <img width="35%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
+  <img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
       <!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
