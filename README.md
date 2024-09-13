@@ -275,9 +275,9 @@
   <br>
 
 <footer width= "100%" align="center">
-  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-  <img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
-  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats">
+  <img width="27.5%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setznagl&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+  <img width="27.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Setznagl&theme=material-palenight&hide_border=false" alt="Github Stats"/>
+  <img width="27.5%" align="left" src="https://github-readme-stats.vercel.app/api?username=Setznagl&theme=material-palenight&show_icons=true" alt="GitHub stats">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
       <!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
     <picture width="100%" align="center">
