@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td width= "75%">
-          <img src="https://readme-typing-svg.demolab.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&random=false&width=900&height=300&lines=Gabriel+Setznagl+;Front-End+Developer" alt="Typing SVG" />
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&width=900&height=300&lines=Gabriel+Setznagl;Full-Stack+Developer" alt="Typing SVG" /></a>
       </td>
       <td width= "25%">
           <img src="/profile-gif/gif.gif" alt="Foto de perfil animada">
