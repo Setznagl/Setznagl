@@ -68,7 +68,7 @@
             <a href="https://atos.net/en/">
                 <img align="left" height="30%" width="30%" alt="Atos" src="/job-experiences/atos-group-logo-white.svg">
             </a>
-            Exp. Time: 10 mth's
+            Exp. Time: 1 year and 4 mth's
         </td>
         <td>
             <a href="https://institutocea.org.br/">
