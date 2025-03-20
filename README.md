@@ -90,7 +90,7 @@
         <td>Most used Soft Skills: <code>Active Communication</code>, <code>Customer/user service</code>, <code>Mobile Hardware Consultancy</code></td>
     </tr>
     <tr>
-        <td>Development Opportunities: <code>Speex</code>, <code>Atos MyLearning Courses Portal</code>, <code>7° UFN-Atos Java Academy</code></td>
+        <td>Development Opportunities: <code>Speexx English B1</code>, <code>Atos MyLearning Courses Portal</code>, <code>7° UFN-Atos Java Academy</code></td>
         <td>Development Opportunities: <code>Retail sales knowledge</code></td>
     </tr>
 </table>
