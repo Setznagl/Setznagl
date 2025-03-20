@@ -18,29 +18,33 @@
         <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        <!--
-        <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-          &nbsp;&nbsp;
-        -->
-        <img alt="Spring-Boot" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img alt="TS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img alt="NPM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-        <img alt="Maven" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
+        <img alt="React" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img alt="Junit" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
+        <img alt="Spring-Boot" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
         <img alt="Hibernate" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
+        <img alt="Maven" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
         <img alt="TomCat" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
         <img alt="PostgreSQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
         <img alt="GIT" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         <img alt="Postman" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
         <img alt="Figma" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-        <img alt="Junit" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Azure" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-        <!-- <img alt="" width="6%" src=""> -->
+        <img alt="Intellij" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
         <!-- <img alt="" width="6%" src=""> -->
       </td>   
     </tr>
