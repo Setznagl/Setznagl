@@ -171,41 +171,6 @@
       </tr>
   </table>
   <br>
-  <table id="tabela-alura"><th colspan="10">Alura Learning Paths</th>
-      <tr colspan="3" align="center"> 
-           <td width="10%">  
-            <a href="Certificados/Alura/Alura (A partir do zero iniciante em programação) - Contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/programacao.svg"></a>
-          </td>
-           <td width="10%">  
-            <a href="Certificados/Alura/Alura(A partir do zero HTML e CSS para projetos web) contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
-          </td>
-           <td width="10%">
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
-          </td>
-      </tr>
-  </table>
-  <br>
   <table id="tabela-alura"><th colspan="10">Udemy Courses</th>
       <tr colspan="3" align="center"> 
            <td width="10%">  
@@ -248,6 +213,41 @@
           </td>
           <td width="10%">  
             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+           <td width="10%">
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          </td>
+      </tr>
+  </table>
+  <br>
+  <table id="tabela-alura"><th colspan="10">Alura Learning Paths</th>
+      <tr colspan="3" align="center"> 
+           <td width="10%">  
+            <a href="Certificados/Alura/Alura (A partir do zero iniciante em programação) - Contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/programacao.svg"></a>
+          </td>
+           <td width="10%">  
+            <a href="Certificados/Alura/Alura(A partir do zero HTML e CSS para projetos web) contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
           </td>
           <td width="10%">  
             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
