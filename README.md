@@ -40,6 +40,7 @@
         <img alt="Figma" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Azure" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
+        <img alt="Microsoft Power Automate" width="6%" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,19 +61,21 @@
 
 <table>
     <tr>
-        <th class="column-title">🖥️ Work experiences in the technology field</th>
+        <th class="column-title" colspan="2">🖥️ Work experiences in the technology field</th>
         <th class="column-title">💼 Work experiences in other areas</th>
     </tr>
     <tr>
-        <td>In the overview below you will find my most recent work experience:</td>
-        <td>In the overview below you will find my most relevant previous experiences:</td>
-    </tr>
-    <tr>
+       <td>
+            <a href="https://www.tcs.com/">
+                <img align="left" height="30%" width="30%" alt="Tata Consultancy Services" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tata_Consultancy_Services_old_logo.svg">
+            </a>
+            Exp. Time: 3 mth's
+        </td>
         <td>
             <a href="https://atos.net/en/">
                 <img align="left" height="30%" width="30%" alt="Atos" src="/job-experiences/atos-group-logo-white.svg">
             </a>
-            Exp. Time: 1 year and 4 mth's
+            Exp. Time: 1 year and 6 mth's
         </td>
         <td>
             <a href="https://institutocea.org.br/">
@@ -82,18 +85,22 @@
         </td>
     </tr>
     <tr>
+        <td><strong>Bilingual Service Desk Agent</strong> • Full-time (Forty two hours per week)</td>
         <td><strong>Service Desk Analyst N1</strong> • Full-time (Forty hours per week)</td>
         <td><strong>Local Tech Salesperson Leader</strong> • Full-time (Forty-four hours per week)</td>
     </tr>
     <tr>
+        <td><strong></strong></td>
         <td>Main Tools Used: <code>Powershell</code>, <code>Notion</code>, <code>Microsoft Teams</code>, <code>Azure Account Services</code>, <code>Remote Access</code></td>
         <td>Main Tools Used: <code>Microsoft Teams</code>, <code>Consultive Sales</code>, <code>Targets Management</code></td>
     </tr>
     <tr>
+        <td><strong></strong></td>
         <td>Most used Soft Skills: <code>Active Communication</code>, <code>Troubleshooting</code>, <code>Customer/user service</code></td>
         <td>Most used Soft Skills: <code>Active Communication</code>, <code>Customer/user service</code>, <code>Mobile Hardware Consultancy</code></td>
     </tr>
     <tr>
+        <td><strong></strong></td>
         <td>Development Opportunities: <code>Speexx English B1</code>, <code>Atos MyLearning Courses Portal</code>, <code>7° UFN-Atos Java Academy</code></td>
         <td>Development Opportunities: <code>Retail sales knowledge</code></td>
     </tr>
