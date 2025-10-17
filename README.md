@@ -119,25 +119,25 @@
             <a href="Certificados/Microsoft/Azure/AZ-900/Conceitos básicos do Microsoft Azure Descrever o gerenciamento e a governança do Azure.pdf"><img src="https://learn.microsoft.com/en-us/training/achievements/describe-azure-management-governance.svg"></a>
           </td>
           <td width = "10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
            <td width = "10%">
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width = "10%">  
-             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+             <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width = "10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width = "10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width = "10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width = "10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
       </tr>
   </table>
@@ -149,31 +149,31 @@
             <a href="Certificados/Digital Inovation One/Bootcamp Azure AI900/Microsoft Azure AI Fundamentals.pdf"><img src="https://hermes.dio.me/courses/badge/c8e0f61f-cdf4-4852-92df-a01045dce3a2.png"></a>
           </td>
            <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+         <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
            <td width="10%">
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
       </tr>
   </table>
@@ -181,34 +181,34 @@
   <table id="tabela-alura"><th colspan="10">Udemy Courses</th>
       <tr colspan="3" align="center"> 
            <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+             <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+             <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
            <td width="10%">
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
       </tr>
   </table>
@@ -219,31 +219,31 @@
             <a href="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_UFN.pdf"><img src="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_UFN_logo.png"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
            <td width="10%">
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
       </tr>
   </table>
@@ -257,28 +257,28 @@
             <a href="Certificados/Alura/Alura(A partir do zero HTML e CSS para projetos web) contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
            <td width="10%">
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-             <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Certificados/Microsoft/hexagonal-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
       </tr>
   </table>
