@@ -18,11 +18,11 @@
         <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img alt="TS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <!-- <img alt="TS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
         <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img alt="NPM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-        <img alt="React" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+        <!-- <img alt="React" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+        <!-- <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> -->
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img alt="Junit" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
@@ -67,92 +67,96 @@
     <tr>
        <td>
             <a href="https://www.tcs.com/">
-                <img align="left" height="30%" width="30%" alt="Tata Consultancy Services" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tata_Consultancy_Services_old_logo.svg">
+                <img align="left" height="100%" width="100%" alt="Tata Consultancy Services" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tata_Consultancy_Services_old_logo.svg">
             </a>
-            Exp. Time: 3 mth's
         </td>
         <td>
             <a href="https://atos.net/en/">
-                <img align="left" height="30%" width="30%" alt="Atos" src="/job-experiences/atos-group-logo-white.svg">
+                <img align="left" height="100%" width="100%" alt="Atos" src="/job-experiences/atos-group-logo-white.svg">
             </a>
-            Exp. Time: 1 year and 6 mth's
         </td>
         <td>
             <a href="https://institutocea.org.br/">
-                <img align="left" height="30%" width="30%" alt="Instituto C&A" src="/job-experiences/lgcea.png">
+                <img align="left" height="100%" width="100%" alt="Instituto C&A" src="/job-experiences/lgcea.png">
             </a>
-            Exp. Time: 1 year and 6 mth's
         </td>
     </tr>
     <tr>
-        <td><strong>Bilingual Service Desk Agent</strong> • Full-time (Forty two hours per week)</td>
-        <td><strong>Service Desk Analyst N1</strong> • Full-time (Forty hours per week)</td>
-        <td><strong>Local Tech Salesperson Leader</strong> • Full-time (Forty-four hours per week)</td>
+      <td><p>Exp. Time: 7 mth's</p></td>
+      <td><p>Exp. Time: 1 year and 7 mth's</p></td>
+      <td><p>Exp. Time: 1 year and 6 mth's</p></td>
+    </tr>  
+    <tr>
+        <td><strong>Bilingual Service Desk Agent</strong> <br> • Night-Shift 12x36</td>
+        <td><strong>Service Desk Analyst N1</strong> <br> • Full-time (Forty hours per week)</td>
+        <td><strong>Local Tech Salesperson Leader</strong> <br> • Full-time (Forty-four hours per week)</td>
     </tr>
     <tr>
-        <td><strong></strong></td>
-        <td>Main Tools Used: <code>Powershell</code>, <code>Notion</code>, <code>Microsoft Teams</code>, <code>Azure Account Services</code>, <code>Remote Access</code></td>
+        <td>Main Tools Used: <code>Powershell</code>, <code>Service Now</code> , <code>Azure Cloud Entry ID</code> , <code>Active Directory</code> , <code>Microsoft O365</code> , <code>Microsoft W11</code> ,
+        <code>Microsoft SCCM</code> ,  <code>Power Automate</code> 
+        </td>
+        <td>Main Tools Used: <code>Powershell</code>, <code>Microsoft SCCM</code> , <code>Notion</code>, <code>Microsoft O365</code>, <code>Azure Account Services</code>, <code>Remote Access</code></td>
         <td>Main Tools Used: <code>Microsoft Teams</code>, <code>Consultive Sales</code>, <code>Targets Management</code></td>
     </tr>
     <tr>
-        <td><strong></strong></td>
+        <td>Most used Soft Skills: <code>Active English (Call,Mail,Chat) Handling</code> , <code>Active Communication</code>, <code>Troubleshooting</code>, <code>Customer/user service</code></td>
         <td>Most used Soft Skills: <code>Active Communication</code>, <code>Troubleshooting</code>, <code>Customer/user service</code></td>
         <td>Most used Soft Skills: <code>Active Communication</code>, <code>Customer/user service</code>, <code>Mobile Hardware Consultancy</code></td>
     </tr>
     <tr>
-        <td><strong></strong></td>
+        <td>Development Opportunities: <code>Daily English practice</code>, <code>Company UDEMY</code>, <code>Agent chosen for eventual Power Automate flow maintenances </code></td>
         <td>Development Opportunities: <code>Speexx English B1</code>, <code>Atos MyLearning Courses Portal</code>, <code>7° UFN-Atos Java Academy</code></td>
         <td>Development Opportunities: <code>Retail sales knowledge</code></td>
     </tr>
-</table>
-
-  <!--
-  <table id="tabela-microsoft-learning"><th colspan="10">Microsoft Learning Paths</th>
+  </table>
+    <br>
+  <table id="tabela-other"><th colspan="10">Other Sources</th>
       <tr colspan="3" align="center"> 
-          <td width = "10%">
-            <a href="Certificados\Microsoft\Azure\AZ-900\Princípios-básicos-do-Microsoft-Azure-descrever-os-conceitos-de-nuvem.pdf"><img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg"></a>
+          <td width="10%">  
+            <a href="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_UFN.pdf"><img src="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_UFN_logo.png"></a>
           </td>
-          <td width = "10%">  
-            <a href="Certificados/Microsoft/Azure/AZ-900/Conceitos-básicos-do-Microsoft-Azure-descrever-a-arquitetura-e-os-serviços-do-Azure.pdf"><img src="https://learn.microsoft.com/en-us/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg"></a>
-          </td >
-            <td width = "10%">
-            <a href="Certificados/Microsoft/Azure/AZ-900/Conceitos básicos do Microsoft Azure Descrever o gerenciamento e a governança do Azure.pdf"><img src="https://learn.microsoft.com/en-us/training/achievements/describe-azure-management-governance.svg"></a>
+          <td width="10%">  
+          <a href="Certificados/Outras Fontes/MaisPraTi.jpg"><img src="Assets/other/+prati.jpg"></a>
           </td>
-          <td width = "10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-           <td width = "10%">
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width = "10%">  
-             <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width = "10%">  
+          <td width="10%">  
            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
-          <td width = "10%">  
+          <td width="10%">  
            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
-          <td width = "10%">  
+           <td width="10%">
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
             <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
-          <td width = "10%">  
+          <td width="10%">  
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">  
             <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
       </tr>
   </table>
-  <br>
-  -->
   <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps</th>
       <tr colspan="3" align="center"> 
            <td width="10%">  
-            <a href="Certificados/Digital Inovation One/Bootcamp Azure AI900/Microsoft Azure AI Fundamentals.pdf"><img src="https://hermes.dio.me/courses/badge/c8e0f61f-cdf4-4852-92df-a01045dce3a2.png"></a>
+            <a href="Certificados/Digital Inovation One/Bootcamp Azure AI900/Microsoft Azure AI Fundamentals.pdf">
+                <img src="https://assets.dio.me/xaR8tVsVrumv6mqTBDp6ZgDZ3g0s8t2ceeqlEYKL3iw/f:webp/q:80/w:120/L3RyYWNrcy80ZDk5OGQ1Yy0zNmMxLTQ5N2ItOGRhMC04ZGI0NjVjODIwZWIucG5n"></a>
           </td>
            <td width="10%">  
-          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          <a href="Certificados/Digital Inovation One/Bootcamp Riachuelo Java 2025/certificate">
+                <img src="https://assets.dio.me/tHhAiI_xe0xWE05MWDOdvIEJOy5NVV_rWyLxTy1lKWs/f:webp/q:80/w:120/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n"></a>
           </td>
           <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+           <a href="Certificados/Digital Inovation One/Linux Fundamentals 2025/certificate">
+                <img src="https://assets.dio.me/BCMnGR0bzZjAUV-Uy9FyBqQH7amT0LyP24TNAmEvgMU/f:webp/q:80/w:120/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n"></a>
           </td>
           <td width="10%">  
          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
@@ -178,13 +182,13 @@
       </tr>
   </table>
   <br>
-  <table id="tabela-alura"><th colspan="10">Udemy Courses</th>
+  <table id="tabela-udemy"><th colspan="10">Udemy Courses</th>
       <tr colspan="3" align="center"> 
            <td width="10%">  
-             <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+             <a href="Certificados/Udemy/powerapps-essencial-wagner-cardoso.jpg"><img src="Assets/Power_Platform_scalable/PowerApps_scalable.svg"></a>
           </td>
           <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+           <a href="Certificados/Udemy/powerautomate-basics-marcos-adriani-peres.jpg"><img src="Assets/Power_Platform_scalable/PowerAutomate_scalable.svg"></a>
           </td>
           <td width="10%">  
              <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
@@ -209,41 +213,6 @@
           </td>
           <td width="10%">  
            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-      </tr>
-  </table>
-  <br>
-    <table id="tabela-alura"><th colspan="10">Other Sources</th>
-      <tr colspan="3" align="center"> 
-          <td width="10%">  
-            <a href="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_UFN.pdf"><img src="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_UFN_logo.png"></a>
-          </td>
-          <td width="10%">  
-          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-           <td width="10%">
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
       </tr>
   </table>
