@@ -116,6 +116,7 @@ yarn add devicon
 </p>
 
 ```html
+
 <link rel="stylesheet" href="devicon.min.css">
 ```
 

@@ -42,7 +42,7 @@
             "tags": {
                 "type": "array",
                 "title": "List of tags relating to the technology for categorization/search purpose.",
-                "$ref": "./tags-enum.json/#/definitions/Tags"
+                "$ref": "tags-enum.json/#/definitions/Tags"
             },
             "versions": {
                 "title": "Keeps track of the different versions that you have.",

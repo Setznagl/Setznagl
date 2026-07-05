@@ -5,13 +5,14 @@
           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&width=900&height=300&lines=Gabriel+Setznagl;Full-Stack+Developer" alt="Typing SVG" /></a>
       </td>
       <td width= "25%">
-          <img src="/profile-gif/gif.gif" alt="Foto de perfil animada">
+          <img src="/Assets/profile/avatar.gif" alt="Profile animated avatar.">
       </td>
     </tr>
   </table>
 </header>
 
 <body>
+
   <table>
     <tr width="100%" align="center" display="flex">
       <td colspan="2">
@@ -39,7 +40,6 @@
         <img alt="Postman" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
         <img alt="Figma" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img alt="Azure" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
         <img alt="Microsoft Power Automate" width="6%" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
@@ -50,16 +50,17 @@
       </td>   
     </tr>
     <tr width="100%" align="center">
-      <td colspan="2" align="center"><div> 
-        <a href = "mailto:comercialgabrielsetznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/gabriel-setznagl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  
-        <a href="https://discord.gg/K5SFPb3j47" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-        <a href="https://learn.microsoft.com/pt-br/users/gabrielmendonca-3960/achievements?tab=tab-learning-paths"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-      </div></td>
+      <td colspan="2" align="center">
+        <div> 
+            <a href = "mailto:devznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+            <a href="https://www.linkedin.com/in/gabriel-setznagl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+            <a href="https://discord.gg/K5SFPb3j47" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+        </div>
+      </td>
     </tr>
   </table>
-
-<table>
+    <br>
+  <table>
     <tr>
         <th class="column-title" colspan="2">🖥️ Work experiences in the technology field</th>
         <th class="column-title">💼 Work experiences in other areas</th>
@@ -72,17 +73,17 @@
         </td>
         <td>
             <a href="https://atos.net/en/">
-                <img align="left" height="100%" width="100%" alt="Atos" src="/job-experiences/atos-group-logo-white.svg">
+                <img align="left" height="100%" width="100%" alt="Atos" src="/Assets/Icons/job-experience-icons/atos-group-logo-white.svg">
             </a>
         </td>
         <td>
             <a href="https://institutocea.org.br/">
-                <img align="left" height="100%" width="100%" alt="Instituto C&A" src="/job-experiences/lgcea.png">
+                <img align="left" height="100%" width="100%" alt="Instituto C&A" src="/Assets/Icons/job-experience-icons/lgcea.png">
             </a>
         </td>
     </tr>
     <tr>
-      <td><p>Exp. Time: 1 year mth's</p></td>
+      <td><p>Exp. Time: 1 year and 2 mth's</p></td>
       <td><p>Exp. Time: 1 year and 7 mth's</p></td>
       <td><p>Exp. Time: 1 year and 6 mth's</p></td>
     </tr>  
@@ -113,49 +114,36 @@
   <table id="tabela-other"><th colspan="10">Other Sources</th>
       <tr colspan="3" align="center"> 
           <td width="10%">  
-            <a href="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_UFN.pdf"><img src="Certificados/Outras Fontes/Certificado_Sétima_Academia_Java_UFN_logo.png"></a>
+            <a href="Assets/Certificates/Other%20Sources/Certificado_Setima_Academia_Java_UFN.pdf">
+            <img src="Assets/Icons/other/Certificado_Sétima_Academia_Java_UFN_logo.png"></a>
           </td>
           <td width="10%">  
-          <a href="Certificados/Outras Fontes/MaisPraTi.jpg"><img src="Assets/other/+prati.jpg"></a>
+          <a href="Assets/Certificates/Other Sources/MaisPraTi.jpg"><img src="Assets/Icons/other/+prati.jpg"></a>
           </td>
           <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+           <a href="https://operational-production.s3.sa-east-1.amazonaws.com/certificados/1431017.pdf"><img src="Assets/Icons/other/cognizant_logo.jpeg"></a>
           </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-           <td width="10%">
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
       </tr>
   </table>
   <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps</th>
       <tr colspan="3" align="center"> 
            <td width="10%">  
-            <a href="Certificados/Digital Inovation One/Bootcamp Azure AI900/Microsoft Azure AI Fundamentals.pdf">
+            <a href="Assets/Certificates/Digital Inovation One/Bootcamp Azure AI900/Microsoft Azure AI Fundamentals.pdf">
                 <img src="https://assets.dio.me/xaR8tVsVrumv6mqTBDp6ZgDZ3g0s8t2ceeqlEYKL3iw/f:webp/q:80/w:120/L3RyYWNrcy80ZDk5OGQ1Yy0zNmMxLTQ5N2ItOGRhMC04ZGI0NjVjODIwZWIucG5n"></a>
           </td>
            <td width="10%">  
-          <a href="Certificados/Digital Inovation One/Bootcamp Riachuelo Java 2025/certificate">
+          <a href="Assets/Certificates/Digital Inovation One/Bootcamp Riachuelo Java 2025/certificate">
                 <img src="https://assets.dio.me/tHhAiI_xe0xWE05MWDOdvIEJOy5NVV_rWyLxTy1lKWs/f:webp/q:80/w:120/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n"></a>
           </td>
           <td width="10%">  
-           <a href="Certificados/Digital Inovation One/Linux Fundamentals 2025/certificate">
+           <a href="Assets/Certificates/Digital Inovation One/Linux Fundamentals 2025/certificate">
                 <img src="https://assets.dio.me/BCMnGR0bzZjAUV-Uy9FyBqQH7amT0LyP24TNAmEvgMU/f:webp/q:80/w:120/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n"></a>
           </td>
           <td width="10%">  
@@ -181,78 +169,48 @@
           </td>
       </tr>
   </table>
-  <br>
+    <br>
   <table id="tabela-udemy"><th colspan="10">Udemy Courses</th>
       <tr colspan="3" align="center"> 
            <td width="10%">  
-             <a href="Certificados/Udemy/powerapps-essencial-wagner-cardoso.jpg"><img src="Assets/Power_Platform_scalable/PowerApps_scalable.svg"></a>
+             <a href="Assets/Certificates/Udemy/powerapps-essencial-wagner-cardoso.jpg">
+             <img src="Assets/Icons/Power_Platform_scalable/PowerApps_scalable.svg"></a>
           </td>
           <td width="10%">  
-           <a href="Certificados/Udemy/powerautomate-basics-marcos-adriani-peres.jpg"><img src="Assets/Power_Platform_scalable/PowerAutomate_scalable.svg"></a>
+            <a href="Assets/Certificates/Udemy/powerautomate-basics-marcos-adriani-peres.jpg">
+            <img src="Assets/Icons/Power_Platform_scalable/PowerAutomate_scalable.svg"></a>
           </td>
-          <td width="10%">  
-             <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-           <td width="10%">
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
       </tr>
   </table>
-  <br>
+    <br>
   <table id="tabela-alura"><th colspan="10">Alura Learning Paths</th>
       <tr colspan="3" align="center"> 
-           <td width="10%">  
-            <a href="Certificados/Alura/Alura (A partir do zero iniciante em programação) - Contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/programacao.svg"></a>
-          </td>
-           <td width="10%">  
-            <a href="Certificados/Alura/Alura(A partir do zero HTML e CSS para projetos web) contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
+          <td width="10%">  
+            <a href="Assets/Certificates/Alura/Alura (A partir do zero iniciante em programação) - Contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/programacao.svg"></a>
           </td>
           <td width="10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+            <a href="Assets/Certificates/Alura/Alura(A partir do zero HTML e CSS para projetos web) contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
           </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-           <td width="10%">
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
       </tr>
   </table>
 </body>  
-  <br>
+<br>
 
 <footer width= "100%" align="center">
   <div align="center">
