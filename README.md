@@ -145,15 +145,15 @@
   <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps</th>
       <tr colspan="3" align="center"> 
            <td width="10%">  
-            <a href="Assets/Certificates/Digital Inovation One/Bootcamp Azure AI900/Microsoft Azure AI Fundamentals.pdf">
+            <a href="Assets/Certificates/Digital%20Inovation%20One/Bootcamp%20Azure%20AI900/Microsoft%20Azure%20AI%20Fundamentals.pdf">
                 <img src="https://assets.dio.me/xaR8tVsVrumv6mqTBDp6ZgDZ3g0s8t2ceeqlEYKL3iw/f:webp/q:80/w:120/L3RyYWNrcy80ZDk5OGQ1Yy0zNmMxLTQ5N2ItOGRhMC04ZGI0NjVjODIwZWIucG5n"></a>
           </td>
            <td width="10%">  
-          <a href="Assets/Certificates/Digital Inovation One/Bootcamp Riachuelo Java 2025/certificate">
+          <a href="Assets/Certificates/Digital Inovation One/Bootcamp Riachuelo Java 2025/certificate.jpg">
                 <img src="https://assets.dio.me/tHhAiI_xe0xWE05MWDOdvIEJOy5NVV_rWyLxTy1lKWs/f:webp/q:80/w:120/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n"></a>
           </td>
           <td width="10%">  
-           <a href="Assets/Certificates/Digital Inovation One/Linux Fundamentals 2025/certificate">
+           <a href="Assets/Certificates/Digital Inovation One/Linux Fundamentals 2025/certificate.png">
                 <img src="https://assets.dio.me/BCMnGR0bzZjAUV-Uy9FyBqQH7amT0LyP24TNAmEvgMU/f:webp/q:80/w:120/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n"></a>
           </td>
           <td width="10%">  
