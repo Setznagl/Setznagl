@@ -19,33 +19,41 @@
         <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <!-- <img alt="TS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+        <img alt="TS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img alt="NPM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+        <img alt="Python" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <!-- <img alt="React" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
         <!-- <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> -->
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+          <br>
         <img alt="Junit" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
+        <img alt="Jest" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
         <img alt="Spring-Boot" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
         <img alt="Hibernate" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
         <img alt="Maven" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
-        <img alt="TomCat" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt="NPM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+          <br>
+        <img alt="Prisma ORM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+        <img alt="Hibernate ORM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
+        <img alt="SQLite" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
         <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
         <img alt="PostgreSQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <br>
         <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
         <img alt="GIT" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         <img alt="Postman" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+        <img alt="Insomnia" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
         <img alt="Figma" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <br>
         <img alt="Microsoft Power Automate" width="6%" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg">
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt="n8n" width="18%" src="https://n8n.io/brandguidelines/logo-white.svg">
+          <br>
         <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
         <img alt="Intellij" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+        <img alt="Pycharm" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+        <img alt="Webstorm" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
         <!-- <img alt="" width="6%" src=""> -->
       </td>   
     </tr>
@@ -83,7 +91,7 @@
         </td>
     </tr>
     <tr>
-      <td><p>Exp. Time: 1 year and 2 mth's</p></td>
+      <td><p>Exp. Time: 1 year and 7 mth's</p></td>
       <td><p>Exp. Time: 1 year and 7 mth's</p></td>
       <td><p>Exp. Time: 1 year and 6 mth's</p></td>
     </tr>  
@@ -123,7 +131,9 @@
           <td width="10%">  
            <a href="https://operational-production.s3.sa-east-1.amazonaws.com/certificados/1431017.pdf"><img src="Assets/Icons/other/cognizant_logo.jpeg"></a>
           </td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%">
+            <a href="Assets/Certificates/Other Sources/avanti-2026.pdf"><img src="Assets/Icons/other/avanti-icon.jpg"></a>
+          </td>
           <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
           <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
           <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
@@ -147,7 +157,7 @@
                 <img src="https://assets.dio.me/BCMnGR0bzZjAUV-Uy9FyBqQH7amT0LyP24TNAmEvgMU/f:webp/q:80/w:120/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n"></a>
           </td>
           <td width="10%">  
-         <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
           </td>
            <td width="10%">
           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
@@ -170,16 +180,10 @@
       </tr>
   </table>
     <br>
-  <table id="tabela-udemy"><th colspan="10">Udemy Courses</th>
-      <tr colspan="3" align="center"> 
-           <td width="10%">  
-             <a href="Assets/Certificates/Udemy/powerapps-essencial-wagner-cardoso.jpg">
-             <img src="Assets/Icons/Power_Platform_scalable/PowerApps_scalable.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="Assets/Certificates/Udemy/powerautomate-basics-marcos-adriani-peres.jpg">
-            <img src="Assets/Icons/Power_Platform_scalable/PowerAutomate_scalable.svg"></a>
-          </td>
+  <table id="tabela-udemy"><th colspan="10">Udemy</th>
+      <tr colspan="3" align="center">
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
           <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
           <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
           <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
@@ -191,22 +195,48 @@
       </tr>
   </table>
     <br>
-  <table id="tabela-alura"><th colspan="10">Alura Learning Paths</th>
+  <table id="tabela-alura"><th colspan="10">Alura</th>
       <tr colspan="3" align="center"> 
           <td width="10%">  
-            <a href="Assets/Certificates/Alura/Alura (A partir do zero iniciante em programação) - Contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/programacao.svg"></a>
+            <a href="Assets/Certificates/Alura/Alura-Oracle-One-2.pdf">
+            <img src="https://www.alura.com.br/assets/api/formacoes/categorias/inteligencia-artificial.svg"></a>
           </td>
           <td width="10%">  
-            <a href="Assets/Certificates/Alura/Alura(A partir do zero HTML e CSS para projetos web) contracapa.pdf"><img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
+            <a href="Assets/Certificates/Alura/Alura-Oracle-One-1.pdf">
+            <img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
           </td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
+          <td width="10%">
+            <a href="Assets/Certificates/Alura/Alura-Oracle-One-3.pdf">
+            <img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
+          </td>
+          <td width="10%">
+            <a href="#">
+            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">
+            <a href="#">
+            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">
+            <a href="#">
+            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">
+            <a href="#">
+            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">
+            <a href="#">
+            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">
+            <a href="#">
+            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
+          <td width="10%">
+            <a href="#">
+            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
+          </td>
       </tr>
   </table>
 </body>  
