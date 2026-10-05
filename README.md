@@ -199,15 +199,15 @@
       <tr colspan="3" align="center"> 
           <td width="10%">  
             <a href="Assets/Certificates/Alura/Alura-Oracle-One-2.pdf">
-            <img src="https://www.alura.com.br/assets/api/formacoes/categorias/inteligencia-artificial.svg"></a>
+            <img src="Assets/Icons/other/oracle-ne-logo.png"></a>
           </td>
           <td width="10%">  
             <a href="Assets/Certificates/Alura/Alura-Oracle-One-1.pdf">
-            <img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
+            <img src="Assets/Icons/other/oracle-ne-logo.png"></a>
           </td>
           <td width="10%">
             <a href="Assets/Certificates/Alura/Alura-Oracle-One-3.pdf">
-            <img src="https://www.alura.com.br/assets/api/formacoes/categorias/front-end.svg"></a>
+            <img src="Assets/Icons/other/oracle-ne-logo.png"></a>
           </td>
           <td width="10%">
             <a href="#">
