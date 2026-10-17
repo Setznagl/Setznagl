@@ -1,20 +1,19 @@
-<header>
-  <table>
+<!-- Profile header -->
+  <table width="100%">
     <tr>
-      <td width= "75%">
+      <td width="75%">
           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alegreya&weight=600&size=60&duration=2000&pause=50&color=C792EA&background=292D3E&center=true&vCenter=true&width=900&height=300&lines=Gabriel+Setznagl;Full-Stack+Developer" alt="Typing SVG" /></a>
       </td>
-      <td width= "25%">
+      <td width="25%">
           <img src="/Assets/profile/avatar.gif" alt="Profile animated avatar.">
       </td>
     </tr>
   </table>
-</header>
+<!-- Profile content -->
 
-<body>
-
-  <table>
-    <tr width="100%" align="center" display="flex">
+  <!-- Technologies and tools -->
+  <table width="100%">
+    <tr align="center">
       <td colspan="2">
         <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -60,17 +59,18 @@
     <tr width="100%" align="center">
       <td colspan="2" align="center">
         <div> 
-            <a href = "mailto:devznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-            <a href="https://www.linkedin.com/in/gabriel-setznagl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-            <a href="https://discord.gg/K5SFPb3j47" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+            <a href = "mailto:devznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener noreferrer"></a>
+            <a href="https://www.linkedin.com/in/gabriel-setznagl/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="noopener noreferrer"></a>
+            <a href="https://discord.gg/K5SFPb3j47" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" rel="noopener noreferrer"></a>
         </div>
       </td>
     </tr>
   </table>
     <br>
-  <table>
+  <!-- Work experience -->
+  <table width="100%">
     <tr>
-        <th class="column-title" colspan="2">🖥️ Work experiences in the technology field</th>
+        <th colspan="2">🖥️ Work experiences in the technology field</th>
         <th class="column-title">💼 Work experiences in other areas</th>
     </tr>
     <tr>
@@ -119,130 +119,452 @@
     </tr>
   </table>
     <br>
-  <table id="tabela-other"><th colspan="10">Other Sources</th>
-      <tr colspan="3" align="center"> 
-          <td width="10%">  
-            <a href="Assets/Certificates/Other%20Sources/Certificado_Setima_Academia_Java_UFN.pdf">
-            <img src="Assets/Icons/other/Certificado_Sétima_Academia_Java_UFN_logo.png"></a>
-          </td>
-          <td width="10%">  
-          <a href="Assets/Certificates/Other Sources/MaisPraTi.jpg"><img src="Assets/Icons/other/+prati.jpg"></a>
-          </td>
-          <td width="10%">  
-           <a href="https://operational-production.s3.sa-east-1.amazonaws.com/certificados/1431017.pdf"><img src="Assets/Icons/other/cognizant_logo.jpeg"></a>
-          </td>
-          <td width="10%">
-            <a href="Assets/Certificates/Other Sources/avanti-2026.pdf"><img src="Assets/Icons/other/avanti-icon.jpg"></a>
-          </td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-      </tr>
-  </table>
-  <table id="tabela-digital-inovation-one"><th colspan="10">Digital Inovation One Bootcamps</th>
-      <tr colspan="3" align="center"> 
-           <td width="10%">  
-            <a href="Assets/Certificates/Digital%20Inovation%20One/Bootcamp%20Azure%20AI900/Microsoft%20Azure%20AI%20Fundamentals.pdf">
-                <img src="https://assets.dio.me/xaR8tVsVrumv6mqTBDp6ZgDZ3g0s8t2ceeqlEYKL3iw/f:webp/q:80/w:120/L3RyYWNrcy80ZDk5OGQ1Yy0zNmMxLTQ5N2ItOGRhMC04ZGI0NjVjODIwZWIucG5n"></a>
-          </td>
-           <td width="10%">  
-          <a href="Assets/Certificates/Digital Inovation One/Bootcamp Riachuelo Java 2025/certificate.jpg">
-                <img src="https://assets.dio.me/tHhAiI_xe0xWE05MWDOdvIEJOy5NVV_rWyLxTy1lKWs/f:webp/q:80/w:120/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n"></a>
-          </td>
-          <td width="10%">  
-           <a href="Assets/Certificates/Digital Inovation One/Linux Fundamentals 2025/certificate.png">
-                <img src="https://assets.dio.me/BCMnGR0bzZjAUV-Uy9FyBqQH7amT0LyP24TNAmEvgMU/f:webp/q:80/w:120/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-           <td width="10%">
-          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-            <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-          <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">  
-           <a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-      </tr>
-  </table>
-    <br>
-  <table id="tabela-udemy"><th colspan="10">Udemy</th>
-      <tr colspan="3" align="center">
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-          <td width="10%"><a href="#"><img src="Assets/Icons/hexagon-svgrepo-com.svg"></a></td>
-      </tr>
-  </table>
-    <br>
-  <table id="tabela-alura"><th colspan="10">Alura</th>
-      <tr colspan="3" align="center"> 
-          <td width="10%">  
-            <a href="Assets/Certificates/Alura/Alura-Oracle-One-2.pdf">
-            <img src="Assets/Icons/other/oracle-ne-logo.png"></a>
-          </td>
-          <td width="10%">  
-            <a href="Assets/Certificates/Alura/Alura-Oracle-One-1.pdf">
-            <img src="Assets/Icons/other/oracle-ne-logo.png"></a>
-          </td>
-          <td width="10%">
-            <a href="Assets/Certificates/Alura/Alura-Oracle-One-3.pdf">
-            <img src="Assets/Icons/other/oracle-ne-logo.png"></a>
-          </td>
-          <td width="10%">
-            <a href="#">
-            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">
-            <a href="#">
-            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">
-            <a href="#">
-            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">
-            <a href="#">
-            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">
-            <a href="#">
-            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">
-            <a href="#">
-            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-          <td width="10%">
-            <a href="#">
-            <img src="Assets/Icons/hexagon-svgrepo-com.svg"></a>
-          </td>
-      </tr>
-  </table>
-</body>  
+
+<!-- Courses and certifications -->
+<h2 align="center">🎓 Courses &amp; Certifications</h2>
+<p align="center">
+  Courses grouped by learning platform, with the main technologies and concepts covered by each program.
+</p>
+
+<table id="courses-other-sources" width="100%">
+  <tr>
+    <th colspan="5">Other Sources · certificates</th>
+  </tr>
+  <tr align="center">
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Other%20Sources/Certificado_Setima_Academia_Java_UFN.pdf">
+        <img height="200px" alt="7th UFN Java Academy" src="Assets/Icons/other/Certificado_Sétima_Academia_Java_UFN_logo.png">
+      </a>
+      <br>
+      <strong>7th UFN Java Academy</strong>
+      <br>
+      <sub>Professional Java fundamentals academy</sub>
+      <br><br>
+      <code>Java</code> <code>Backend</code>
+      <br><br>
+      <a href="Assets/Certificates/Other%20Sources/Certificado_Setima_Academia_Java_UFN.pdf">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Other%20Sources/MaisPraTi.jpg">
+        <img height="200px" alt="+PraTi Program" src="Assets/Icons/other/+prati.jpg">
+      </a>
+      <br>
+      <strong>+PraTi Program</strong>
+      <br>
+      <sub>Technology training program</sub>
+      <br><br>
+      <code>Technology</code> <code>Professional Training</code>
+      <br><br>
+      <a href="Assets/Certificates/Other%20Sources/MaisPraTi.jpg">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Other%20Sources/cognizant-diversability.jpeg">
+        <img height="200px" alt="Cognizant Diversability" src="Assets/Icons/other/cognizant_logo.jpeg">
+      </a>
+      <br>
+      <strong>Cognizant Diversability</strong>
+      <br>
+      <sub>Professional development program</sub>
+      <br><br>
+      <code>Inclusion</code> <code>Technology</code>
+      <br><br>
+      <a href="Assets/Certificates/Other%20Sources/cognizant-diversability.jpeg">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">
+        <img height="200px" alt="Avanti Bootcamp 2026" src="Assets/Icons/other/avanti-icon.jpg">
+      </a>
+      <br>
+      <strong>Avanti Bootcamp 2026</strong>
+      <br>
+      <sub>Technology bootcamp</sub>
+      <br><br>
+      <code>Technology</code> <code>Bootcamp</code>
+      <br><br>
+      <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+  </tr>
+</table>
+
 <br>
 
-<footer width= "100%" align="center">
+<table id="courses-dio" width="100%">
+  <tr>
+    <th colspan="5">Digital Innovation One · bootcamps</th>
+  </tr>
+  <tr align="center">
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Digital%20Inovation%20One/Bootcamp%20Azure%20AI900/Microsoft%20Azure%20AI%20Fundamentals.pdf">
+        <img height="90" alt="Microsoft Azure AI Fundamentals" src="https://assets.dio.me/xaR8tVsVrumv6mqTBDp6ZgDZ3g0s8t2ceeqlEYKL3iw/f:webp/q:80/w:120/L3RyYWNrcy80ZDk5OGQ1Yy0zNmMxLTQ5N2ItOGRhMC04ZGI0NjVjODIwZWIucG5n">
+      </a>
+      <br>
+      <strong>Microsoft Azure AI Fundamentals</strong>
+      <br>
+      <sub>Cloud and artificial intelligence fundamentals</sub>
+      <br><br>
+      <code>Azure</code> <code>AI-900</code> <code>Cloud</code>
+      <br><br>
+      <a href="Assets/Certificates/Digital%20Inovation%20One/Bootcamp%20Azure%20AI900/Microsoft%20Azure%20AI%20Fundamentals.pdf">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Digital%20Inovation%20One/Bootcamp%20Riachuelo%20Java%202025/certificate.jpg">
+        <img height="90" alt="Riachuelo Java Bootcamp 2025" src="https://assets.dio.me/tHhAiI_xe0xWE05MWDOdvIEJOy5NVV_rWyLxTy1lKWs/f:webp/q:80/w:120/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n">
+      </a>
+      <br>
+      <strong>Riachuelo Java Bootcamp 2025</strong>
+      <br>
+      <sub>Java development from fundamentals to persistence</sub>
+      <br><br>
+      <code>Java</code> <code>OOP</code> <code>Git</code> <code>SQL</code>
+      <br><br>
+      <a href="Assets/Certificates/Digital%20Inovation%20One/Bootcamp%20Riachuelo%20Java%202025/certificate.jpg">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Digital%20Inovation%20One/Linux%20Fundamentals%202025/certificate.png">
+        <img height="90" alt="Linux Fundamentals 2025" src="https://assets.dio.me/BCMnGR0bzZjAUV-Uy9FyBqQH7amT0LyP24TNAmEvgMU/f:webp/q:80/w:120/L3RyYWNrcy9kMzNlZTljMy04YTM0LTQ5MTMtOGJmYS1kMjFiZGMyMTA5YjAucG5n">
+      </a>
+      <br>
+      <strong>Linux Fundamentals 2025</strong>
+      <br>
+      <sub>Linux system and command-line fundamentals</sub>
+      <br><br>
+      <code>Linux</code> <code>CLI</code> <code>System Administration</code>
+      <br><br>
+      <a href="Assets/Certificates/Digital%20Inovation%20One/Linux%20Fundamentals%202025/certificate.png">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table id="courses-udemy" width="100%">
+  <tr>
+    <th colspan="5">Udemy · courses</th>
+  </tr>
+  <tr align="center">
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Udemy/powerapps-essencial-wagner-cardoso.jpg">
+        <img height="20%" alt="Power Apps Essential" src="Assets/Certificates/Udemy/powerapps-essencial-wagner-cardoso.jpg">
+      </a>
+      <br>
+      <strong>Power Apps Essential</strong>
+      <br>
+      <sub>Business application development with Microsoft Power Platform</sub>
+      <br><br>
+      <code>Power Apps</code> <code>Low-code</code>
+      <br><br>
+      <a href="Assets/Certificates/Udemy/powerapps-essencial-wagner-cardoso.jpg">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Udemy/powerautomate-basics-marcos-adriani-peres.jpg">
+        <img height="20%" alt="Power Automate Basics" src="Assets/Certificates/Udemy/powerautomate-basics-marcos-adriani-peres.jpg">
+      </a>
+      <br>
+      <strong>Power Automate Basics</strong>
+      <br>
+      <sub>Workflow automation with Microsoft Power Platform</sub>
+      <br><br>
+      <code>Power Automate</code> <code>Workflow Automation</code>
+      <br><br>
+      <a href="Assets/Certificates/Udemy/powerautomate-basics-marcos-adriani-peres.jpg">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="Assets/Certificates/Udemy/docker-project-based-approach-udemy.png">
+        <img height="20%" alt="" src="Assets/Certificates/Udemy/docker-project-based-approach-udemy.png">
+      </a>
+      <br>
+      <strong>Docker Fundamentals</strong>
+      <br>
+      <sub>Core Docker toolkit and how to use Docker Swarm</sub>
+      <br><br>
+      <code>DevOps</code> <code>Docker</code>
+      <br><br>
+      <a href="Assets/Certificates/Udemy/docker-project-based-approach-udemy.png">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+    <tr>
+      <td width="20%" valign="top">
+        <a href="#">
+          <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+        </a>
+        <br>
+        <strong></strong>
+        <br>
+        <sub></sub>
+        <br><br>
+        <code>Training</code>
+        <br><br>
+        <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+      </td>
+      <td width="20%" valign="top">
+        <a href="#">
+          <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+        </a>
+        <br>
+        <strong></strong>
+        <br>
+        <sub></sub>
+        <br><br>
+        <code>Training</code>
+        <br><br>
+        <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+      </td>
+      <td width="20%" valign="top">
+        <a href="#">
+          <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+        </a>
+        <br>
+        <strong></strong>
+        <br>
+        <sub></sub>
+        <br><br>
+        <code>Training</code>
+        <br><br>
+        <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+      </td>
+      <td width="20%" valign="top">
+        <a href="#">
+          <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+        </a>
+        <br>
+        <strong></strong>
+        <br>
+        <sub></sub>
+        <br><br>
+        <code>Training</code>
+        <br><br>
+        <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+      </td>
+      <td width="20%" valign="top">
+        <a href="#">
+          <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+        </a>
+        <br>
+        <strong></strong>
+        <br>
+        <sub></sub>
+        <br><br>
+        <code>Training</code>
+        <br><br>
+        <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+      </td>
+    </tr>
+  </tr>
+</table>
+
+<br>
+
+<table id="courses-alura" width="100%">
+  <tr>
+    <th colspan="5">Alura · certificates</th>
+  </tr>
+  <tr align="center">
+    <td width="20%" colspan="1" valign="top">
+      <a href="Assets/Certificates/Alura/Alura-Oracle-One-1.pdf">
+        <img height="20%" alt="Oracle ONE Front-end certificate 1" src="Assets/Icons/other/oracle-ne-logo.png">
+      </a>
+      <br>
+      <strong>Oracle ONE · LLMs with LangChain</strong>
+      <br>
+      <sub>Certificate 1</sub>
+      <br><br>
+      <code>AI</code> <code>Python</code> <code>LangChain</code> <code>Gemini</code>
+      <br><br>
+      <a href="Assets/Certificates/Alura/Alura-Oracle-One-1.pdf">View certificate ↗</a>
+    </td>
+    <td width="20%" colspan="1" valign="top">
+      <a href="Assets/Certificates/Alura/Alura-Oracle-One-2.pdf">
+        <img height="20%" alt="Oracle ONE Artificial Intelligence certificate" src="Assets/Icons/other/oracle-ne-logo.png">
+      </a>
+      <br>
+      <strong>Oracle ONE · LLMs with LangGraph & n8n</strong>
+      <br>
+      <sub>Certificate 2</sub>
+      <br><br>
+      <code>AI</code> <code>Python</code> <code>LangGraph</code> <code>n8n</code>
+      <br><br>
+      <a href="Assets/Certificates/Alura/Alura-Oracle-One-2.pdf">View certificate ↗</a>
+    </td>
+    <td width="20%" colspan="1" valign="top">
+      <a href="Assets/Certificates/Alura/Alura-Oracle-One-3.pdf">
+        <img height="20%" alt="Oracle ONE Front-end certificate 3" src="Assets/Icons/other/oracle-ne-logo.png">
+      </a>
+      <br>
+      <strong>Oracle ONE · RAG with AI agents</strong>
+      <br>
+      <sub>Certificate 3</sub>
+      <br><br>
+      <code>Front-end</code> <code>Web Development</code>
+      <br><br>
+      <a href="Assets/Certificates/Alura/Alura-Oracle-One-3.pdf">View certificate ↗</a>
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+    <td width="20%" valign="top">
+      <a href="#">
+        <img height="20%" alt="" src="Assets/Icons/hexagon-svgrepo-com.svg">
+      </a>
+      <br>
+      <strong></strong>
+      <br>
+      <sub></sub>
+      <br><br>
+      <code>Training</code>
+      <br><br>
+      <!-- <a href="Assets/Certificates/Other%20Sources/avanti-2026.pdf">View certificate ↗</a> -->
+    </td>
+  </tr>
+  <tr align="center">
+
+  </tr>
+</table>
+
+<br>
+
+<!-- Profile footer -->
+<div align="center">
   <div align="center">
    <a href="https://git.io/streak-stats"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=setznagl&theme=material-palenight&mode=weekly" alt="GitHub Streak" /></a>
     <!-- 
@@ -253,8 +575,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=292d3e&fontColor=292d3e&section=footer&descAlign=16&descAlignY=24">
       <!-- COMMIT SNAKE BY RAFAELA BALLERINI https://www.instagram.com/p/CPjUBhXDNEE/  --->
     <picture width="100%" align="center">
-      <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: material-palenight)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg">
       <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Setznagl/Setznagl/output/github-contribution-grid-snake.svg"> 
     </picture>
-</footer>
+</div>
