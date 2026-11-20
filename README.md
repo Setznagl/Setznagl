@@ -26,6 +26,7 @@
 
   <div align="center"><b>Tools & Workspace · Workspace & Editors</b><br><img alt="Notion" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">&nbsp;Notion&nbsp;<img alt="VS Code" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;VS Code&nbsp;<img alt="IntelliJ" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">&nbsp;IntelliJ&nbsp;<img alt="PyCharm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">&nbsp;PyCharm&nbsp;<img alt="WebStorm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">&nbsp;WebStorm</div>
 
+  <div align="center">
   <a href = "mailto:devznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener noreferrer"></a>
             <a href="https://www.linkedin.com/in/gabriel-setznagl/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="noopener noreferrer"></a>
             <a href="https://discord.gg/K5SFPb3j47" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" rel="noopener noreferrer"></a>
