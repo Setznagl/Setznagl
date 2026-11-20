@@ -12,47 +12,31 @@
 <!-- Profile content -->
 
   <!-- Technologies and tools -->
-**Languages & Web**
-
-| <img alt="HTML" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML | <img alt="CSS" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS | <img alt="JavaScript" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript | <img alt="TypeScript" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript | <img alt="Python" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python | <img alt="Java" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-
-**Backend & Testing**
-
-| <img alt="Node.js" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js | <img alt="Spring Boot" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> Spring Boot | <img alt="Tomcat" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg"> Tomcat | <img alt="JUnit" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg"> JUnit | <img alt="Jest" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"> Jest | <img alt="Maven" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> Maven | <img alt="npm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"> npm |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-
-**Data & Persistence**
-
-| <img alt="Prisma" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"> Prisma | <img alt="Hibernate" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"> Hibernate | <img alt="SQLite" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> SQLite | <img alt="MySQL" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL | <img alt="PostgreSQL" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> PostgreSQL |
-| :-: | :-: | :-: | :-: | :-: |
-
-**Cloud & Systems**
-
-| <img alt="Azure" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> Azure | <img alt="Linux" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> Linux | <img alt="Docker" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker | <img alt="Docker Swarm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker Swarm |
-| :-: | :-: | :-: | :-: |
-
-**AI & LLM Frameworks**
-
-| <img alt="LangChain" width="20" src="Assets/Icons/tech/langchain.svg"> LangChain | <img alt="LangGraph" width="20" src="Assets/Icons/tech/langgraph.svg"> LangGraph | <img alt="Gemini" width="20" src="Assets/Icons/tech/gemini.svg"> Gemini |
-| :-: | :-: | :-: |
-
-**Low-code & Workflows**
-
-| <img alt="Power Apps" width="20" src="Assets/Icons/tech/powerapps.svg"> Power Apps | <img alt="Power Automate" width="20" src="Assets/Icons/tech/powerautomate.svg"> Power Automate | <img alt="n8n" width="20" src="Assets/Icons/tech/n8n.svg"> n8n |
-| :-: | :-: | :-: |
-
-**Tools & Workspace · Versioning, APIs & Design**
-
-| <img alt="Git" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git | <img alt="GitHub" width="20" src="https://www.svgrepo.com/show/475654/github-color.svg"> GitHub | <img alt="Postman" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"> Postman | <img alt="Insomnia" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"> Insomnia | <img alt="Figma" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> Figma |
-| :-: | :-: | :-: | :-: | :-: |
-
-**Tools & Workspace · Workspace & Editors**
-
-| <img alt="Notion" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"> Notion | <img alt="VS Code" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> VS Code | <img alt="IntelliJ" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"> IntelliJ | <img alt="PyCharm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"> PyCharm | <img alt="WebStorm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"> WebStorm |
-| :-: | :-: | :-: | :-: | :-: |
-
-<table width="100%"><tr align="center"><td align="center"><a href = "mailto:devznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener noreferrer"></a>
+  <b>Languages & Web</b>
+  <table width="100%"><tr><td width="17%" align="center"><img alt="HTML" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML</td><td width="17%" align="center"><img alt="CSS" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS</td><td width="17%" align="center"><img alt="JavaScript" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript</td><td width="17%" align="center"><img alt="TypeScript" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript</td><td width="17%" align="center"><img alt="Python" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</td><td width="17%" align="center"><img alt="Java" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java</td></tr></table>
+    <br>
+  <b>Backend & Testing</b>
+  <table width="100%"><tr><td width="14%" align="center"><img alt="Node.js" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js</td><td width="14%" align="center"><img alt="Spring Boot" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> Spring Boot</td><td width="14%" align="center"><img alt="Tomcat" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg"> Tomcat</td><td width="14%" align="center"><img alt="JUnit" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg"> JUnit</td><td width="14%" align="center"><img alt="Jest" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"> Jest</td><td width="14%" align="center"><img alt="Maven" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> Maven</td><td width="14%" align="center"><img alt="npm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"> npm</td></tr></table>
+    <br>
+  <b>Data & Persistence</b>
+  <table width="100%"><tr><td width="20%" align="center"><img alt="Prisma" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"> Prisma</td><td width="20%" align="center"><img alt="Hibernate" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"> Hibernate</td><td width="20%" align="center"><img alt="SQLite" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> SQLite</td><td width="20%" align="center"><img alt="MySQL" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL</td><td width="20%" align="center"><img alt="PostgreSQL" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> PostgreSQL</td></tr></table>
+    <br>
+  <b>Cloud & Systems</b>
+  <table width="100%"><tr><td width="25%" align="center"><img alt="Azure" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> Azure</td><td width="25%" align="center"><img alt="Linux" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> Linux</td><td width="25%" align="center"><img alt="Docker" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker</td><td width="25%" align="center"><img alt="Docker Swarm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker Swarm</td></tr></table>
+    <br>
+  <b>AI & LLM Frameworks</b>
+  <table width="100%"><tr><td width="33%" align="center"><img alt="LangChain" width="20" src="Assets/Icons/tech/langchain.svg"> LangChain</td><td width="33%" align="center"><img alt="LangGraph" width="20" src="Assets/Icons/tech/langgraph.svg"> LangGraph</td><td width="33%" align="center"><img alt="Gemini" width="20" src="Assets/Icons/tech/gemini.svg"> Gemini</td></tr></table>
+    <br>
+  <b>Low-code & Workflows</b>
+  <table width="100%"><tr><td width="33%" align="center"><img alt="Power Apps" width="20" src="Assets/Icons/tech/powerapps.svg"> Power Apps</td><td width="33%" align="center"><img alt="Power Automate" width="20" src="Assets/Icons/tech/powerautomate.svg"> Power Automate</td><td width="33%" align="center"><img alt="n8n" width="20" src="Assets/Icons/tech/n8n.svg"> n8n</td></tr></table>
+    <br>
+  <b>Tools &amp; Workspace · Versioning, APIs &amp; Design</b>
+  <table width="100%"><tr><td width="20%" align="center"><img alt="Git" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git</td><td width="20%" align="center"><img alt="GitHub" width="20" src="https://www.svgrepo.com/show/475654/github-color.svg"> GitHub</td><td width="20%" align="center"><img alt="Postman" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"> Postman</td><td width="20%" align="center"><img alt="Insomnia" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"> Insomnia</td><td width="20%" align="center"><img alt="Figma" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> Figma</td></tr></table>
+    <br>
+  <b>Tools &amp; Workspace · Workspace &amp; Editors</b>
+  <table width="100%"><tr><td width="20%" align="center"><img alt="Notion" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"> Notion</td><td width="20%" align="center"><img alt="VS Code" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> VS Code</td><td width="20%" align="center"><img alt="IntelliJ" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"> IntelliJ</td><td width="20%" align="center"><img alt="PyCharm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"> PyCharm</td><td width="20%" align="center"><img alt="WebStorm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"> WebStorm</td></tr></table>
+    <br>
+  <table width="100%"><tr align="center"><td width="100%" align="center"><a href = "mailto:devznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener noreferrer"></a>
             <a href="https://www.linkedin.com/in/gabriel-setznagl/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="noopener noreferrer"></a>
             <a href="https://discord.gg/K5SFPb3j47" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" rel="noopener noreferrer"></a>
         </div></td></tr></table>
