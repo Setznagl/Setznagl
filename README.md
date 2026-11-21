@@ -13,58 +13,16 @@
 
   <!-- Technologies and tools -->
   <table width="100%">
-    <tr align="center">
-      <td colspan="2">
-        <img alt="HTML" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="CSS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="JS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img alt="TS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-        <img alt="NodeJS" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img alt="Python" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img alt="Java" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        <!-- <img alt="React" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-        <!-- <img alt="Angular" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> -->
-          <br>
-        <img alt="Junit" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">
-        <img alt="Jest" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-        <img alt="Spring-Boot" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-        <img alt="Hibernate" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
-        <img alt="Maven" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"> 
-        <img alt="NPM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-          <br>
-        <img alt="Prisma ORM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-        <img alt="Hibernate ORM" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
-        <img alt="SQLite" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-        <img alt="MySQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-        <img alt="PostgreSQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-          <br>
-        <img alt="Github" width="6%" src="https://www.svgrepo.com/show/475654/github-color.svg">
-        <img alt="GIT" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-        <img alt="Postman" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-        <img alt="Insomnia" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
-        <img alt="Figma" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-          <br>
-        <img alt="Microsoft Power Automate" width="6%" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg">
-        <img alt="n8n" width="18%" src="https://n8n.io/brandguidelines/logo-white.svg">
-          <br>
-        <img alt="Notion" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img alt="VScode" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <img alt="Intellij" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-        <img alt="Pycharm" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-        <img alt="Webstorm" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
-        <!-- <img alt="" width="6%" src=""> -->
-      </td>   
-    </tr>
-    <tr width="100%" align="center">
-      <td colspan="2" align="center">
-        <div> 
-            <a href = "mailto:devznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener noreferrer"></a>
+    <tr><td width="170"><b>Languages &amp; Web</b></td><td><img alt="HTML" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;HTML &nbsp; <img alt="CSS" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;CSS &nbsp; <img alt="JavaScript" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;JavaScript &nbsp; <img alt="TypeScript" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;TypeScript &nbsp; <img alt="Python" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;Python &nbsp; <img alt="Java" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;Java</td></tr>
+    <tr><td width="170"><b>Backend &amp; Testing</b></td><td><img alt="Node.js" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;Node.js &nbsp; <img alt="Spring Boot" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;Spring&nbsp;Boot &nbsp; <img alt="Tomcat" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">&nbsp;Tomcat &nbsp; <img alt="JUnit" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg">&nbsp;JUnit &nbsp; <img alt="Jest" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">&nbsp;Jest &nbsp; <img alt="Maven" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">&nbsp;Maven &nbsp; <img alt="npm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">&nbsp;npm</td></tr>
+    <tr><td width="170"><b>Data &amp; Persistence</b></td><td><img alt="Prisma" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">&nbsp;Prisma &nbsp; <img alt="Hibernate" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">&nbsp;Hibernate &nbsp; <img alt="SQLite" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">&nbsp;SQLite &nbsp; <img alt="MySQL" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;MySQL &nbsp; <img alt="PostgreSQL" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;PostgreSQL</td></tr>
+    <tr><td width="170"><b>Cloud &amp; Systems</b></td><td><img alt="Azure" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">&nbsp;Azure &nbsp; <img alt="Linux" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;Linux &nbsp; <img alt="Docker" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;Docker &nbsp; <img alt="Docker Swarm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;Docker&nbsp;Swarm</td></tr>
+    <tr><td width="170"><b>AI &amp; Automation</b></td><td><img alt="LangChain" width="20" src="Assets/Icons/tech/langchain.svg">&nbsp;LangChain &nbsp; <img alt="LangGraph" width="20" src="Assets/Icons/tech/langgraph.svg">&nbsp;LangGraph &nbsp; <img alt="Gemini" width="20" src="Assets/Icons/tech/gemini.svg">&nbsp;Gemini &nbsp; <img alt="Power Apps" width="20" src="Assets/Icons/tech/powerapps.svg">&nbsp;Power&nbsp;Apps &nbsp; <img alt="Power Automate" width="20" src="Assets/Icons/tech/powerautomate.svg">&nbsp;Power&nbsp;Automate &nbsp; <img alt="n8n" width="20" src="Assets/Icons/tech/n8n.svg">&nbsp;n8n</td></tr>
+    <tr><td width="170"><b>Tools &amp; Workspace</b></td><td><img alt="Git" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;Git &nbsp; <img alt="GitHub" width="20" src="https://www.svgrepo.com/show/475654/github-color.svg">&nbsp;GitHub &nbsp; <img alt="Postman" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">&nbsp;Postman &nbsp; <img alt="Insomnia" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">&nbsp;Insomnia &nbsp; <img alt="Figma" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">&nbsp;Figma &nbsp; <img alt="Notion" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">&nbsp;Notion &nbsp; <img alt="VS Code" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;VS&nbsp;Code &nbsp; <img alt="IntelliJ" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">&nbsp;IntelliJ &nbsp; <img alt="PyCharm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">&nbsp;PyCharm &nbsp; <img alt="WebStorm" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">&nbsp;WebStorm</td></tr>
+    <tr><td width="170"></td><td align="center"><a href = "mailto:devznagl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener noreferrer"></a>
             <a href="https://www.linkedin.com/in/gabriel-setznagl/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="noopener noreferrer"></a>
             <a href="https://discord.gg/K5SFPb3j47" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" rel="noopener noreferrer"></a>
-        </div>
-      </td>
-    </tr>
+        </div></td></tr>
   </table>
     <br>
   <!-- Work experience -->
